@@ -1,0 +1,20 @@
+T1	Microorganism 20 43	Proteus vulgaris  1 M10
+T2	Habitat 168 180	model cheese
+T3	Habitat 260 265	human
+T4	Phenotype 469 482	Gram-negative
+T5	Microorganism 493 512	Psychrobacter celer
+T6	Microorganism 517 525	H. alvei
+T7	Habitat 568 589	microbial populations
+T8	Habitat 631 673	surface of experimental smear soft  cheese
+T9	Habitat 642 673	experimental smear soft  cheese
+T10	Habitat 709 716	cheeses
+N1	NCBI_Taxonomy Annotation:T1 Referent:585
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	OntoBiotope Annotation:T3 Referent:OBT:002488
+N4	OntoBiotope Annotation:T4 Referent:OBT:000648
+N5	NCBI_Taxonomy Annotation:T5 Referent:306572
+N6	NCBI_Taxonomy Annotation:T6 Referent:569
+N7	OntoBiotope Annotation:T7 Referent:OBT:000113
+N8	OntoBiotope Annotation:T8 Referent:OBT:001341
+N9	OntoBiotope Annotation:T9 Referent:OBT:003494
+N10	OntoBiotope Annotation:T10 Referent:OBT:001480

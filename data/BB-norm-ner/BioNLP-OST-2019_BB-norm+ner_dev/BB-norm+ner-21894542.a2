@@ -1,0 +1,30 @@
+T3	Microorganism 28 40	Marinobacter
+T4	Microorganism 42 54	Marinobacter
+T5	Microorganism 78 97	Gammaproteobacteria
+T6	Phenotype 108 114	motile
+T7	Phenotype 116 126	halophilic
+T8	Phenotype 130 142	halotolerent
+T9	Habitat 190 204	world's oceans
+T10	Habitat 249 268	marine environments
+T11	Habitat 319 334	bacterial flora
+T12	Habitat 357 363	marine
+T13	Habitat 357 373	marine organisms
+T14	Phenotype 768 778;795 817	production of native siderophores
+T15	Phenotype 881 891;908 930	production of native siderophores
+T16	Phenotype 949 971	siderophore production
+T17	Phenotype 1198 1220	Siderophore production
+N1	NCBI_Taxonomy Annotation:T3 Referent:2742
+N2	NCBI_Taxonomy Annotation:T4 Referent:2742
+N3	NCBI_Taxonomy Annotation:T5 Referent:1236
+N4	OntoBiotope Annotation:T6 Referent:OBT:000117
+N5	OntoBiotope Annotation:T7 Referent:OBT:000656
+N6	OntoBiotope Annotation:T8 Referent:OBT:002711
+N7	OntoBiotope Annotation:T9 Referent:OBT:003105
+N8	OntoBiotope Annotation:T10 Referent:OBT:000338
+N9	OntoBiotope Annotation:T11 Referent:OBT:000113
+N10	OntoBiotope Annotation:T12 Referent:OBT:000338
+N11	OntoBiotope Annotation:T13 Referent:OBT:000010
+N12	OntoBiotope Annotation:T14 Referent:OBT:000019
+N13	OntoBiotope Annotation:T15 Referent:OBT:000019
+N14	OntoBiotope Annotation:T16 Referent:OBT:000019
+N15	OntoBiotope Annotation:T17 Referent:OBT:000019

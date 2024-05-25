@@ -1,0 +1,18 @@
+T1	Microorganism 54 71	Pseudoalteromonas
+T2	Microorganism 73 82	Halomonas
+T3	Microorganism 84 90	Vibrio
+T4	Microorganism 92 111	Marinilactibacillus
+T5	Microorganism 116 129	Psychrobacter
+T6	Phenotype 134 147	Gram-negative
+T7	Habitat 200 207	cheeses
+T8	Habitat 336 348	cheese rinds
+T9	Habitat 336 342	cheese
+N1	NCBI_Taxonomy Annotation:T1 Referent:53246
+N2	NCBI_Taxonomy Annotation:T2 Referent:2745
+N3	NCBI_Taxonomy Annotation:T3 Referent:662
+N4	NCBI_Taxonomy Annotation:T4 Referent:191769
+N5	NCBI_Taxonomy Annotation:T5 Referent:497
+N6	OntoBiotope Annotation:T6 Referent:OBT:000648
+N7	OntoBiotope Annotation:T7 Referent:OBT:001480
+N8	OntoBiotope Annotation:T8 Referent:OBT:001481
+N9	OntoBiotope Annotation:T9 Referent:OBT:001480

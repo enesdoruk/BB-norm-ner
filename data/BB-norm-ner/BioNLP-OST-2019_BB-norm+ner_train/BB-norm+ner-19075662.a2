@@ -1,0 +1,34 @@
+T3	Microorganism 28 42	Staphylococcus
+T4	Habitat 43 51	biofilms
+T5	Microorganism 53 67	Staphylococcus
+T6	Habitat 78 93	medical devices
+T7	Habitat 169 180	Biomaterial
+T8	Microorganism 220 246	Staphylococcus epidermidis
+T9	Microorganism 251 272	Staphylococcus aureus
+T10	Phenotype 313 337	development of a biofilm
+T11	Habitat 330 337	biofilm
+T12	Habitat 406 424	host immune system
+T13	Microorganism 494 503	S. aureus
+T14	Microorganism 508 522	S. epidermidis
+T15	Habitat 579 586	biofilm
+T16	Phenotype 579 598	biofilm development
+T17	Habitat 797 804	biofilm
+T18	Phenotype 797 814	biofilm formation
+T19	Habitat 838 865	established mature biofilms
+N1	NCBI_Taxonomy Annotation:T3 Referent:1279
+N2	OntoBiotope Annotation:T4 Referent:OBT:000054
+N3	NCBI_Taxonomy Annotation:T5 Referent:1279
+N4	OntoBiotope Annotation:T6 Referent:OBT:000108
+N5	OntoBiotope Annotation:T7 Referent:OBT:000108
+N6	NCBI_Taxonomy Annotation:T8 Referent:1282
+N7	NCBI_Taxonomy Annotation:T9 Referent:1280
+N8	OntoBiotope Annotation:T10 Referent:OBT:001444
+N9	OntoBiotope Annotation:T11 Referent:OBT:000054
+N10	OntoBiotope Annotation:T12 Referent:OBT:000321
+N11	NCBI_Taxonomy Annotation:T13 Referent:1280
+N12	NCBI_Taxonomy Annotation:T14 Referent:1282
+N13	OntoBiotope Annotation:T15 Referent:OBT:000054
+N14	OntoBiotope Annotation:T16 Referent:OBT:001444
+N15	OntoBiotope Annotation:T17 Referent:OBT:000054
+N16	OntoBiotope Annotation:T18 Referent:OBT:001444
+N17	OntoBiotope Annotation:T19 Referent:OBT:000054

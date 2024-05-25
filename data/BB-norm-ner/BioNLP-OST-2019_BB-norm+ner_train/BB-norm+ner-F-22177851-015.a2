@@ -1,0 +1,20 @@
+T1	Microorganism 0 11	D. hansenii
+T2	Microorganism 13 24	G. candidum
+T3	Microorganism 26 39	Y. lipolytica
+T4	Microorganism 44 59	A. arilaitensis
+T5	Habitat 82 96	cheese surface
+T6	Habitat 82 88	cheese
+T7	Habitat 168 175;188 195	Munster cheeses
+T8	Habitat 180 195	Livarot cheeses
+T9	Habitat 257 286	French red-smear soft cheeses
+T10	Microorganism 313 328	A. arilaitensis
+N1	NCBI_Taxonomy Annotation:T1 Referent:4959
+N2	NCBI_Taxonomy Annotation:T2 Referent:1173061
+N3	NCBI_Taxonomy Annotation:T3 Referent:4952
+N4	NCBI_Taxonomy Annotation:T4 Referent:256701
+N5	OntoBiotope Annotation:T5 Referent:OBT:001341
+N6	OntoBiotope Annotation:T6 Referent:OBT:001480
+N7	OntoBiotope Annotation:T7 Referent:OBT:003512
+N8	OntoBiotope Annotation:T8 Referent:OBT:003510
+N9	OntoBiotope Annotation:T9 Referent:OBT:003494
+N10	NCBI_Taxonomy Annotation:T10 Referent:861360

@@ -1,0 +1,20 @@
+T3	Microorganism 75 98	Ralstonia eutropha H850
+T4	Microorganism 214 237	Ralstonia eutropha H850
+T5	Microorganism 449 465	R. eutropha H850
+T6	Habitat 481 489	fructose
+T7	Habitat 579 587	biphenyl
+T8	Habitat 675 683	fructose
+T9	Habitat 786 794	biphenyl
+T10	Habitat 875 883	biphenyl
+T11	Habitat 923 938	fructose medium
+T12	Habitat 1081 1089	fructose
+N1	NCBI_Taxonomy Annotation:T3 Referent:53482
+N2	NCBI_Taxonomy Annotation:T4 Referent:53482
+N3	NCBI_Taxonomy Annotation:T5 Referent:53482
+N4	OntoBiotope Annotation:T6 Referent:OBT:000007
+N5	OntoBiotope Annotation:T7 Referent:OBT:000007
+N6	OntoBiotope Annotation:T8 Referent:OBT:000007
+N7	OntoBiotope Annotation:T9 Referent:OBT:000007
+N8	OntoBiotope Annotation:T10 Referent:OBT:000007
+N9	OntoBiotope Annotation:T11 Referent:OBT:000007
+N10	OntoBiotope Annotation:T12 Referent:OBT:000007

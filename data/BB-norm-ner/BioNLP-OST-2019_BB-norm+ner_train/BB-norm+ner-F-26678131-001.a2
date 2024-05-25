@@ -1,0 +1,16 @@
+T1	Microorganism 19 27	H. alvei
+T2	Microorganism 29 52	Lactobacillus plantarum
+T3	Microorganism 57 67	Lc. lactis
+T4	Habitat 137 141	milk
+T5	Microorganism 143 155	STEC O26:H11
+T6	Microorganism 143 147;160 167	STEC O157:H7
+T7	Phenotype 143 147	STEC
+T8	Habitat 239 253	ripened cheese
+N1	NCBI_Taxonomy Annotation:T1 Referent:569
+N2	NCBI_Taxonomy Annotation:T2 Referent:1590
+N3	NCBI_Taxonomy Annotation:T3 Referent:1358
+N4	OntoBiotope Annotation:T4 Referent:OBT:001645
+N5	OntoBiotope Annotation:T7 Referent:OBT:000019
+N6	NCBI_Taxonomy Annotation:T5 Referent:244319
+N7	NCBI_Taxonomy Annotation:T6 Referent:83334
+N8	OntoBiotope Annotation:T8 Referent:OBT:003428

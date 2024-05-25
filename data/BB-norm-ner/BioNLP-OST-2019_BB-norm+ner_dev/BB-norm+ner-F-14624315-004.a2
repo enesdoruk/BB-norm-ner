@@ -1,0 +1,20 @@
+T1	Phenotype 8 17	anaerobic
+T2	Microorganism 50 61	Lactococcus
+T3	Microorganism 63 76	Lactobacillus
+T4	Microorganism 78 91	Streptococcus
+T5	Microorganism 96 107	Leuconostoc
+T6	Phenotype 118 153	hydroxy acid dehydrogenase activity
+T7	Phenotype 200 221	transaminase activity
+T8	Phenotype 324 346	decarboxylase activity
+T9	Microorganism 392 397	B1157
+T10	Microorganism 402 407	B1506
+N1	OntoBiotope Annotation:T1 Referent:OBT:000189
+N2	NCBI_Taxonomy Annotation:T2 Referent:1357
+N3	NCBI_Taxonomy Annotation:T3 Referent:1578
+N4	NCBI_Taxonomy Annotation:T4 Referent:1301
+N5	NCBI_Taxonomy Annotation:T5 Referent:1243
+N6	OntoBiotope Annotation:T6 Referent:OBT:000019
+N7	OntoBiotope Annotation:T7 Referent:OBT:000019
+N8	OntoBiotope Annotation:T8 Referent:OBT:000068
+N9	NCBI_Taxonomy Annotation:T9 Referent:1358
+N10	NCBI_Taxonomy Annotation:T10 Referent:1697

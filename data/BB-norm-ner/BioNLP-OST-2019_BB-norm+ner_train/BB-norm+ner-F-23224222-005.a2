@@ -1,0 +1,42 @@
+T1	Habitat 179 214	interior of the cheese from dairy A
+T2	Habitat 195 214	cheese from dairy A
+T3	Habitat 207 212	dairy
+T4	Microorganism 266 292	Streptococcus thermophilus
+T5	Habitat 351 373	cheese surface samples
+T6	Habitat 351 357	cheese
+T7	Microorganism 398 420	Vagococcus carniphilus
+T8	Habitat 426 448	cheeses from dairies A
+T9	Habitat 426 446;456 457	cheeses from dairies D
+T10	Habitat 426 446;450 451	cheeses from dairies B
+T11	Habitat 439 446	dairies
+T12	Microorganism 460 478	Psychrobacter spp.
+T13	Habitat 484 506	cheeses from dairies A
+T14	Habitat 484 504;511 512	cheeses from dairies C
+T15	Habitat 497 504	dairies
+T16	Microorganism 518 530	Lb. curvatus
+T17	Habitat 537 556	cheese from dairy B
+T18	Habitat 549 554	dairy
+T19	Habitat 618 624	cheese
+T20	Habitat 768 782	cheese surface
+T21	Habitat 768 774	cheese
+N1	OntoBiotope Annotation:T1 Referent:OBT:000373
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	OntoBiotope Annotation:T3 Referent:OBT:001988
+N4	NCBI_Taxonomy Annotation:T4 Referent:1308
+N5	OntoBiotope Annotation:T5 Referent:OBT:001341
+N6	OntoBiotope Annotation:T6 Referent:OBT:001480
+N7	NCBI_Taxonomy Annotation:T7 Referent:218144
+N8	OntoBiotope Annotation:T8 Referent:OBT:001480
+N9	OntoBiotope Annotation:T9 Referent:OBT:001480
+N10	OntoBiotope Annotation:T10 Referent:OBT:001480
+N11	OntoBiotope Annotation:T11 Referent:OBT:001988
+N12	NCBI_Taxonomy Annotation:T12 Referent:497
+N13	OntoBiotope Annotation:T13 Referent:OBT:001480
+N14	OntoBiotope Annotation:T14 Referent:OBT:001480
+N15	OntoBiotope Annotation:T15 Referent:OBT:001988
+N16	NCBI_Taxonomy Annotation:T16 Referent:28038
+N17	OntoBiotope Annotation:T17 Referent:OBT:001480
+N18	OntoBiotope Annotation:T18 Referent:OBT:001988
+N19	OntoBiotope Annotation:T19 Referent:OBT:003428
+N20	OntoBiotope Annotation:T20 Referent:OBT:001341
+N21	OntoBiotope Annotation:T21 Referent:OBT:001480

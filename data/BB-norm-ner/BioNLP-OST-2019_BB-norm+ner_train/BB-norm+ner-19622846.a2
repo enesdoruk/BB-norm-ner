@@ -1,0 +1,58 @@
+T3	Microorganism 13 34	Staphylococcus aureus
+T4	Microorganism 45 49	MRSA
+T5	Phenotype 45 49	MRSA
+T6	Habitat 53 93	environmental surfaces in a jail setting
+T7	Habitat 81 85	jail
+T8	Habitat 107 111	jail
+T9	Habitat 107 134	jail environmental surfaces
+T10	Phenotype 195 216	methicillin-resistant
+T11	Microorganism 217 238	Staphylococcus aureus
+T12	Microorganism 240 244	MRSA
+T13	Phenotype 240 244	MRSA
+T14	Habitat 283 319	primary and secondary mannitol salts
+T15	Habitat 324 358	oxacillin-resistant screening agar
+T16	Phenotype 324 343	oxacillin-resistant
+T17	Microorganism 391 400	S. aureus
+T18	Phenotype 426 437;448 458	methicillin resistance
+T19	Phenotype 438 458	oxacillin resistance
+T20	Microorganism 473 482	S. aureus
+T21	Microorganism 535 539	MRSA
+T22	Phenotype 535 539	MRSA
+T23	Phenotype 588 597	resistant
+T24	Habitat 705 719	inmates' nasal
+T25	Habitat 705 712	inmates
+T26	Microorganism 739 743	MRSA
+T27	Phenotype 739 743	MRSA
+T28	Habitat 857 880	correctional facilities
+T29	Microorganism 948 952	MRSA
+T30	Phenotype 948 952	MRSA
+N1	NCBI_Taxonomy Annotation:T3 Referent:1280
+N2	OntoBiotope Annotation:T5 Referent:OBT:002817
+N3	NCBI_Taxonomy Annotation:T4 Referent:1280
+N4	OntoBiotope Annotation:T6 Referent:OBT:000006
+N5	OntoBiotope Annotation:T7 Referent:OBT:000695
+N6	OntoBiotope Annotation:T8 Referent:OBT:000695
+N7	OntoBiotope Annotation:T9 Referent:OBT:000006
+N8	OntoBiotope Annotation:T10 Referent:OBT:002817
+N9	NCBI_Taxonomy Annotation:T11 Referent:1280
+N10	OntoBiotope Annotation:T13 Referent:OBT:002817
+N11	NCBI_Taxonomy Annotation:T12 Referent:1280
+N12	OntoBiotope Annotation:T14 Referent:OBT:000007
+N13	OntoBiotope Annotation:T15 Referent:OBT:000041
+N14	OntoBiotope Annotation:T15 Referent:OBT:000031
+N15	OntoBiotope Annotation:T16 Referent:OBT:002920
+N16	NCBI_Taxonomy Annotation:T17 Referent:1280
+N17	OntoBiotope Annotation:T18 Referent:OBT:002817
+N18	OntoBiotope Annotation:T19 Referent:OBT:002920
+N19	NCBI_Taxonomy Annotation:T20 Referent:1280
+N20	OntoBiotope Annotation:T22 Referent:OBT:002817
+N21	NCBI_Taxonomy Annotation:T21 Referent:1280
+N22	OntoBiotope Annotation:T23 Referent:OBT:002817
+N23	OntoBiotope Annotation:T23 Referent:OBT:002920
+N24	OntoBiotope Annotation:T24 Referent:OBT:000767
+N25	OntoBiotope Annotation:T25 Referent:OBT:003291
+N26	OntoBiotope Annotation:T27 Referent:OBT:002817
+N27	NCBI_Taxonomy Annotation:T26 Referent:1280
+N28	OntoBiotope Annotation:T28 Referent:OBT:000695
+N29	OntoBiotope Annotation:T30 Referent:OBT:002817
+N30	NCBI_Taxonomy Annotation:T29 Referent:1280

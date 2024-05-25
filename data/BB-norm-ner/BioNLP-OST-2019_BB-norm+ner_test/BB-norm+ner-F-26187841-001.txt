@@ -1,0 +1,4 @@
+Growth of the foodborne pathogen Staphylococcus aureus can be inhibited in milk and in cheese by the hydrogen peroxide-producing Lactococcus garvieae N201 dairy strain. Transcriptomic responses of two S. aureus strains, the S. aureus
+ SA15 dairy strain and the MW2 human pathogenic strain, to this growth 
+inhibition were investigated in Brain-Heart Infusion broth under a high 
+or a low aeration level.

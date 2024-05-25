@@ -1,0 +1,8 @@
+T3	Microorganism 102 134	Mycobacterium tuberculosis H37Rv
+T4	Habitat 218 234	human population
+T5	Phenotype 338 359	antibiotic resistance
+T6	Microorganism 517 543	Mycobacterium tuberculosis
+N1	NCBI_Taxonomy Annotation:T3 Referent:83332
+N2	OntoBiotope Annotation:T4 Referent:OBT:002488
+N3	OntoBiotope Annotation:T5 Referent:OBT:002674
+N4	NCBI_Taxonomy Annotation:T6 Referent:83332

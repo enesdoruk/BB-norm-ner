@@ -1,0 +1,6 @@
+T1	Microorganism 42 73	L. lactis subsp. cremoris B1157
+T2	Microorganism 166 187	C. ammoniagenes B1506
+T3	Habitat 319 333	dairy industry
+N1	NCBI_Taxonomy Annotation:T1 Referent:1359
+N2	NCBI_Taxonomy Annotation:T2 Referent:1697
+N3	OntoBiotope Annotation:T3 Referent:OBT:001988

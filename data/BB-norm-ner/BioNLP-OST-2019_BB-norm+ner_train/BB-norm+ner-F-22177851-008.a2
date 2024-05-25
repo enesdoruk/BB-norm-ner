@@ -1,0 +1,30 @@
+T1	Habitat 22 28	cheese
+T2	Microorganism 41 54	C. flavescens
+T3	Habitat 69 75	cheese
+T4	Habitat 69 83	cheese surface
+T5	Habitat 186 192	cheese
+T6	Microorganism 201 209	H. alvei
+T7	Habitat 222 228	cheese
+T8	Microorganism 234 242	H. alvei
+T9	Microorganism 282 290	H. alvei
+T10	Microorganism 292 307	A. arilaitensis
+T11	Habitat 322 328	cheese
+T12	Habitat 322 336	cheese surface
+T13	Microorganism 384 392	H. alvei
+T14	Habitat 400 406	cheese
+T15	Microorganism 444 459	A. arilaitensis
+N1	OntoBiotope Annotation:T1 Referent:OBT:001480
+N2	NCBI_Taxonomy Annotation:T2 Referent:28028
+N3	OntoBiotope Annotation:T3 Referent:OBT:001480
+N4	OntoBiotope Annotation:T4 Referent:OBT:001341
+N5	OntoBiotope Annotation:T5 Referent:OBT:001480
+N6	NCBI_Taxonomy Annotation:T6 Referent:569
+N7	OntoBiotope Annotation:T7 Referent:OBT:001480
+N8	NCBI_Taxonomy Annotation:T8 Referent:569
+N9	NCBI_Taxonomy Annotation:T9 Referent:569
+N10	NCBI_Taxonomy Annotation:T10 Referent:256701
+N11	OntoBiotope Annotation:T11 Referent:OBT:001480
+N12	OntoBiotope Annotation:T12 Referent:OBT:001341
+N13	NCBI_Taxonomy Annotation:T13 Referent:569
+N14	OntoBiotope Annotation:T14 Referent:OBT:001480
+N15	NCBI_Taxonomy Annotation:T15 Referent:256701

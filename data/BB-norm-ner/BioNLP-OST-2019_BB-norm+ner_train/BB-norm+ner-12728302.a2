@@ -1,0 +1,34 @@
+T3	Phenotype 44 59	thermotolerance
+T4	Phenotype 67 82	nitrogen-fixing
+T5	Microorganism 83 97	cyanobacterium
+T6	Microorganism 98 122	Anabaena sp. strain L-31
+T7	Microorganism 136 152	Escherichia coli
+T8	Phenotype 158 173	nitrogen-fixing
+T9	Habitat 174 178	soil
+T10	Microorganism 179 193	cyanobacterium
+T11	Microorganism 194 218	Anabaena sp. strain L-31
+T12	Phenotype 252 309	abilities to survive prolonged and continuous heat stress
+T13	Microorganism 457 481	Anabaena sp. strain L-31
+T14	Microorganism 661 668	E. coli
+T15	Phenotype 767 787	Nitrogenase activity
+T16	Microorganism 791 799	Anabaena
+T17	Microorganism 820 824	L-31
+T18	Microorganism 961 968	E. coli
+T19	Phenotype 1202 1217	thermotolerance
+N1	OntoBiotope Annotation:T3 Referent:OBT:002290
+N2	OntoBiotope Annotation:T4 Referent:OBT:000019
+N3	NCBI_Taxonomy Annotation:T5 Referent:1117
+N4	NCBI_Taxonomy Annotation:T6 Referent:29412
+N5	NCBI_Taxonomy Annotation:T7 Referent:562
+N6	OntoBiotope Annotation:T8 Referent:OBT:000019
+N7	OntoBiotope Annotation:T9 Referent:OBT:000427
+N8	NCBI_Taxonomy Annotation:T10 Referent:1117
+N9	NCBI_Taxonomy Annotation:T11 Referent:29412
+N10	OntoBiotope Annotation:T12 Referent:OBT:002480
+N11	NCBI_Taxonomy Annotation:T13 Referent:29412
+N12	NCBI_Taxonomy Annotation:T14 Referent:562
+N13	OntoBiotope Annotation:T15 Referent:OBT:000019
+N14	NCBI_Taxonomy Annotation:T16 Referent:29412
+N15	NCBI_Taxonomy Annotation:T17 Referent:29412
+N16	NCBI_Taxonomy Annotation:T18 Referent:562
+N17	OntoBiotope Annotation:T19 Referent:OBT:002290

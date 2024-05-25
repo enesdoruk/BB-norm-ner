@@ -1,0 +1,20 @@
+T1	Microorganism 25 46	Corynebacterium casei
+T2	Microorganism 48 74	Microbacterium gubbeenense
+T3	Microorganism 76 101	Arthrobacter arilaitensis
+T4	Microorganism 103 124	Arthrobacter bergerei
+T5	Microorganism 126 142	Agrococcus casei
+T6	Microorganism 144 165	Mycetocola reblochoni
+T7	Microorganism 170 182	Vibrio casei
+T8	Habitat 211 225	cheese habitat
+T9	Habitat 234 269	environment of cheese manufacturing
+T10	Habitat 249 255	cheese
+N1	NCBI_Taxonomy Annotation:T1 Referent:160386
+N2	NCBI_Taxonomy Annotation:T2 Referent:159896
+N3	NCBI_Taxonomy Annotation:T3 Referent:256701
+N4	NCBI_Taxonomy Annotation:T4 Referent:256702
+N5	NCBI_Taxonomy Annotation:T5 Referent:343512
+N6	NCBI_Taxonomy Annotation:T6 Referent:331618
+N7	NCBI_Taxonomy Annotation:T7 Referent:673372
+N8	OntoBiotope Annotation:T8 Referent:OBT:001480
+N9	OntoBiotope Annotation:T9 Referent:OBT:003251
+N10	OntoBiotope Annotation:T10 Referent:OBT:001480

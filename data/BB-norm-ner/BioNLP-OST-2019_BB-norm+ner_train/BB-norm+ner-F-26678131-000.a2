@@ -1,0 +1,34 @@
+T1	Microorganism 11 29	Lactococcus lactis
+T2	Microorganism 32 52	Lactococcus garvieae
+T3	Microorganism 54 85	Leuconostoc pseudomesenteroides
+T4	Microorganism 87 107	Leuconostoc  citreum
+T5	Microorganism 109 125	Lactobacillus sp
+T6	Microorganism 127 148	Carnobacterium mobile
+T7	Microorganism 150 171	Enterococcus faecalis
+T8	Microorganism 174 194	Enterococcus faecium
+T9	Microorganism 196 220	Macrococcus caseolyticus
+T10	Microorganism 225 237	Hafnia alvei
+T11	Microorganism 246 258	STEC O26:H11
+T12	Phenotype 246 250	STEC
+T13	Microorganism 313 325	STEC O157:H7
+T14	Phenotype 313 317	STEC
+T15	Habitat 336 360	pasteurized milk cheeses
+T16	Habitat 336 352	pasteurized milk
+N1	NCBI_Taxonomy Annotation:T1 Referent:1358
+N2	NCBI_Taxonomy Annotation:T2 Referent:1363
+N3	NCBI_Taxonomy Annotation:T3 Referent:33968
+N4	NCBI_Taxonomy Annotation:T4 Referent:33964
+N5	NCBI_Taxonomy Annotation:T5 Referent:1591
+N6	NCBI_Taxonomy Annotation:T6 Referent:2750
+N7	NCBI_Taxonomy Annotation:T7 Referent:1351
+N8	NCBI_Taxonomy Annotation:T8 Referent:1352
+N9	NCBI_Taxonomy Annotation:T9 Referent:69966
+N10	NCBI_Taxonomy Annotation:T10 Referent:569
+N11	OntoBiotope Annotation:T12 Referent:OBT:000019
+N12	NCBI_Taxonomy Annotation:T11 Referent:244319
+N13	OntoBiotope Annotation:T14 Referent:OBT:000019
+N14	NCBI_Taxonomy Annotation:T13 Referent:83334
+N15	OntoBiotope Annotation:T15 Referent:OBT:001480
+N16	OntoBiotope Annotation:T15 Referent:OBT:002173
+N17	OntoBiotope Annotation:T16 Referent:OBT:001645
+N18	OntoBiotope Annotation:T16 Referent:OBT:002173

@@ -1,0 +1,10 @@
+T3	Microorganism 68 88	Bacillus intermedius
+T4	Phenotype 163 185	streptomycin-resistant
+T5	Microorganism 196 222	Bacillus intermedius S3-19
+T6	Microorganism 816 830	B. intermedius
+T7	Microorganism 891 899	Bacillus
+N1	NCBI_Taxonomy Annotation:T3 Referent:1400
+N2	OntoBiotope Annotation:T4 Referent:OBT:002858
+N3	NCBI_Taxonomy Annotation:T5 Referent:1400
+N4	NCBI_Taxonomy Annotation:T6 Referent:1400
+N5	NCBI_Taxonomy Annotation:T7 Referent:1386

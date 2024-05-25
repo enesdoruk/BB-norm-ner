@@ -1,0 +1,19 @@
+T3	Habitat 81 96	eukaryotic cell
+T4	Habitat 203 207	cell
+T5	Habitat 308 312	cell
+T6	Habitat 494 498	cell
+T7	Habitat 704 724	macrophage cell line
+T8	Habitat 848 873	384-well screening plates
+T9	Microorganism 1020 1042	Legionella pneumophila
+T10	Habitat 1062 1071	host cell
+T11	Habitat 1373 1377	cell
+N1	OntoBiotope Annotation:T3 Referent:OBT:000061
+N2	OntoBiotope Annotation:T4 Referent:OBT:000061
+N3	OntoBiotope Annotation:T5 Referent:OBT:000061
+N4	OntoBiotope Annotation:T6 Referent:OBT:000061
+N5	OntoBiotope Annotation:T7 Referent:OBT:002995
+N6	OntoBiotope Annotation:T7 Referent:OBT:000062
+N7	OntoBiotope Annotation:T8 Referent:OBT:000103
+N8	NCBI_Taxonomy Annotation:T9 Referent:446
+N9	OntoBiotope Annotation:T10 Referent:OBT:002995
+N10	OntoBiotope Annotation:T11 Referent:OBT:002995

@@ -1,0 +1,22 @@
+T1	Habitat 20 26	cheese
+T2	Microorganism 75 96	Brevibacterium linens
+T3	Microorganism 284 300	γ-Proteobacteria
+T4	Habitat 304 311	cheeses
+T5	Microorganism 427 449	Pseudoalteromonas spp.
+T6	Habitat 512 519	cheeses
+T7	Microorganism 529 546	Pseudoalteromonas
+T8	Microorganism 587 617	Pseudoalteromonas haloplanktis
+T9	Microorganism 671 688	Pseudoalteromonas
+T10	Phenotype 711 723	cold-adapted
+T11	Habitat 753 767	polar seawater
+N1	OntoBiotope Annotation:T1 Referent:OBT:001480
+N2	NCBI_Taxonomy Annotation:T2 Referent:1703
+N3	NCBI_Taxonomy Annotation:T3 Referent:1236
+N4	OntoBiotope Annotation:T4 Referent:OBT:001480
+N5	NCBI_Taxonomy Annotation:T5 Referent:53246
+N6	OntoBiotope Annotation:T6 Referent:OBT:001480
+N7	NCBI_Taxonomy Annotation:T7 Referent:53246
+N8	NCBI_Taxonomy Annotation:T8 Referent:228
+N9	NCBI_Taxonomy Annotation:T9 Referent:53246
+N10	OntoBiotope Annotation:T10 Referent:OBT:002982
+N11	OntoBiotope Annotation:T11 Referent:OBT:003105

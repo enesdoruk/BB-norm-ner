@@ -1,0 +1,52 @@
+T3	Habitat 39 47	perianal
+T4	Habitat 39 58	perianal ulceration
+T5	Habitat 217 255	HIV-positive men who have sex with men
+T6	Microorganism 217 220	HIV
+T7	Habitat 252 255	men
+T8	Habitat 257 260	MSM
+T9	Habitat 263 271	Patients
+T10	Habitat 333 339	rectal
+T11	Habitat 347 399	MSM attending sexually transmitted infection clinics
+T12	Habitat 361 399	sexually transmitted infection clinics
+T13	Habitat 492 501	anorectal
+T14	Habitat 565 634	HIV-infected patients presenting with isolated perianal ulcer disease
+T15	Microorganism 565 568	HIV
+T16	Habitat 612 626	perianal ulcer
+T17	Habitat 612 620	perianal
+T18	Habitat 688 694	rectal
+T19	Microorganism 695 716	Chlamydia trachomatis
+T20	Microorganism 968 977	chlamydia
+T21	Habitat 1032 1050	MSM with proctitis
+T22	Habitat 1113 1144	MSM with perianal ulcer disease
+T23	Habitat 1122 1130	perianal
+T24	Habitat 1122 1136	perianal ulcer
+N1	OntoBiotope Annotation:T3 Referent:OBT:000988
+N2	OntoBiotope Annotation:T4 Referent:OBT:000933
+N3	OntoBiotope Annotation:T5 Referent:OBT:003451
+N4	OntoBiotope Annotation:T5 Referent:OBT:003156
+N5	NCBI_Taxonomy Annotation:T6 Referent:12721
+N6	OntoBiotope Annotation:T7 Referent:OBT:003451
+N7	OntoBiotope Annotation:T8 Referent:OBT:003451
+N8	OntoBiotope Annotation:T8 Referent:OBT:003156
+N9	OntoBiotope Annotation:T9 Referent:OBT:003269
+N10	OntoBiotope Annotation:T9 Referent:OBT:003451
+N11	OntoBiotope Annotation:T10 Referent:OBT:001738
+N12	OntoBiotope Annotation:T11 Referent:OBT:003451
+N13	OntoBiotope Annotation:T11 Referent:OBT:003269
+N14	OntoBiotope Annotation:T12 Referent:OBT:002694
+N15	OntoBiotope Annotation:T13 Referent:OBT:000988
+N16	OntoBiotope Annotation:T13 Referent:OBT:001738
+N17	OntoBiotope Annotation:T14 Referent:OBT:003451
+N18	OntoBiotope Annotation:T14 Referent:OBT:003269
+N19	NCBI_Taxonomy Annotation:T15 Referent:35274
+N20	OntoBiotope Annotation:T16 Referent:OBT:000933
+N21	OntoBiotope Annotation:T17 Referent:OBT:000988
+N22	OntoBiotope Annotation:T18 Referent:OBT:001738
+N23	NCBI_Taxonomy Annotation:T19 Referent:813
+N24	NCBI_Taxonomy Annotation:T20 Referent:813
+N25	OntoBiotope Annotation:T21 Referent:OBT:003451
+N26	OntoBiotope Annotation:T21 Referent:OBT:003156
+N27	OntoBiotope Annotation:T22 Referent:OBT:003451
+N28	OntoBiotope Annotation:T22 Referent:OBT:003156
+N29	OntoBiotope Annotation:T23 Referent:OBT:000988
+N30	OntoBiotope Annotation:T24 Referent:OBT:000933

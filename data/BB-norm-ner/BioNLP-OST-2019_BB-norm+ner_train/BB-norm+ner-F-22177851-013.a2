@@ -1,0 +1,8 @@
+T1	Microorganism 0 17	Psychrobacter sp.
+T2	Microorganism 22 32	Hafnia sp.
+T3	Habitat 60 64	milk
+T4	Habitat 68 81	smear cheeses
+N1	NCBI_Taxonomy Annotation:T1 Referent:56811
+N2	NCBI_Taxonomy Annotation:T2 Referent:1873498
+N3	OntoBiotope Annotation:T3 Referent:OBT:001645
+N4	OntoBiotope Annotation:T4 Referent:OBT:003494

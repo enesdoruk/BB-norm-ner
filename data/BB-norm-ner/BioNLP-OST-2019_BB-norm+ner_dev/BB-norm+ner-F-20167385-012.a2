@@ -1,0 +1,8 @@
+T1	Phenotype 35 48	Gram negative
+T2	Microorganism 68 91	Microbacterium foliorum
+T3	Microorganism 93 110	Psychrobacter sp.
+T4	Microorganism 115 131	Proteus vulgaris
+N1	OntoBiotope Annotation:T1 Referent:OBT:000648
+N2	NCBI_Taxonomy Annotation:T2 Referent:104336
+N3	NCBI_Taxonomy Annotation:T3 Referent:56811
+N4	NCBI_Taxonomy Annotation:T4 Referent:585

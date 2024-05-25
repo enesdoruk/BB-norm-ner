@@ -1,0 +1,10 @@
+T1	Habitat 4 33	community containing H. alvei
+T2	Microorganism 25 33	H. alvei
+T3	Microorganism 355 363	P. celer
+T4	Habitat 430 456	community without P. celer
+T5	Microorganism 448 456	P. celer
+N1	OntoBiotope Annotation:T1 Referent:OBT:000113
+N2	NCBI_Taxonomy Annotation:T2 Referent:569
+N3	NCBI_Taxonomy Annotation:T3 Referent:306572
+N4	OntoBiotope Annotation:T4 Referent:OBT:000113
+N5	NCBI_Taxonomy Annotation:T5 Referent:306572

@@ -1,0 +1,16 @@
+T1	Microorganism 0 9	B. linens
+T2	Habitat 38 44;70 76	Casera cheese
+T3	Habitat 38 44;70 86	Casera cheese  surfaces
+T4	Habitat 46 56;70 86	Gorgonzola cheese  surfaces
+T5	Habitat 46 56;70 76	Gorgonzola cheese
+T6	Habitat 61 76	Scimudin cheese
+T7	Habitat 61 86	Scimudin cheese  surfaces
+T8	Habitat 185 198	smear cheeses
+N1	NCBI_Taxonomy Annotation:T1 Referent:1703
+N2	OntoBiotope Annotation:T2 Referent:OBT:003483
+N3	OntoBiotope Annotation:T3 Referent:OBT:001341
+N4	OntoBiotope Annotation:T4 Referent:OBT:001341
+N5	OntoBiotope Annotation:T5 Referent:OBT:003504
+N6	OntoBiotope Annotation:T6 Referent:OBT:003522
+N7	OntoBiotope Annotation:T7 Referent:OBT:001341
+N8	OntoBiotope Annotation:T8 Referent:OBT:003494

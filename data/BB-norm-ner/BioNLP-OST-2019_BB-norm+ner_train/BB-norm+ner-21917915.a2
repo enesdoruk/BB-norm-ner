@@ -1,0 +1,18 @@
+T3	Microorganism 43 64	Staphylococcus aureus
+T4	Phenotype 93 102	Pathogens
+T5	Habitat 163 170	mammals
+T6	Phenotype 234 243	pathogens
+T7	Phenotype 355 370	human pathogens
+T8	Habitat 355 360	human
+T9	Microorganism 372 393	Staphylococcus aureus
+T10	Microorganism 723 732	S. aureus
+T11	Phenotype 866 875	pathogens
+N1	NCBI_Taxonomy Annotation:T3 Referent:1280
+N2	OntoBiotope Annotation:T4 Referent:OBT:000375
+N3	OntoBiotope Annotation:T5 Referent:OBT:001625
+N4	OntoBiotope Annotation:T6 Referent:OBT:000375
+N5	OntoBiotope Annotation:T8 Referent:OBT:002488
+N6	OntoBiotope Annotation:T7 Referent:OBT:002806
+N7	NCBI_Taxonomy Annotation:T9 Referent:1280
+N8	NCBI_Taxonomy Annotation:T10 Referent:1280
+N9	OntoBiotope Annotation:T11 Referent:OBT:000375

@@ -1,0 +1,32 @@
+T6	Phenotype 22 35	mosquitocidal
+T7	Microorganism 36 72	Bacillus thuringiensis serovar sotto
+T8	Phenotype 130 152	mosquitocidal activity
+T9	Microorganism 185 240	Bacillus thuringiensis serovar sotto strain 96-OK-85-24
+T10	Phenotype 285 298	mosquitocidal
+T11	Microorganism 319 330	96-OK-85-24
+T12	Phenotype 372 385	mosquitocidal
+T13	Microorganism 386 402	B. thuringiensis
+T14	Phenotype 431 450	larvicidal activity
+T15	Habitat 459 481	Culex pipiens molestus
+T16	Phenotype 486 505	haemolytic activity
+T17	Microorganism 674 685	96-OK-85-24
+T18	Phenotype 706 719	mosquitocidal
+T19	Phenotype 813 826	mosquitocidal
+T20	Microorganism 827 843	B. thuringiensis
+T21	Habitat 919 936	culicine mosquito
+N1	OntoBiotope Annotation:T6 Referent:OBT:002809
+N2	NCBI_Taxonomy Annotation:T7 Referent:29340
+N3	OntoBiotope Annotation:T8 Referent:OBT:002809
+N4	NCBI_Taxonomy Annotation:T9 Referent:29340
+N5	OntoBiotope Annotation:T10 Referent:OBT:002809
+N6	NCBI_Taxonomy Annotation:T11 Referent:29340
+N7	OntoBiotope Annotation:T12 Referent:OBT:002809
+N8	NCBI_Taxonomy Annotation:T13 Referent:1428
+N9	OntoBiotope Annotation:T14 Referent:OBT:002809
+N10	OntoBiotope Annotation:T15 Referent:OBT:002142
+N11	OntoBiotope Annotation:T16 Referent:OBT:000304
+N12	NCBI_Taxonomy Annotation:T17 Referent:29340
+N13	OntoBiotope Annotation:T18 Referent:OBT:002809
+N14	OntoBiotope Annotation:T19 Referent:OBT:002809
+N15	NCBI_Taxonomy Annotation:T20 Referent:1428
+N16	OntoBiotope Annotation:T21 Referent:OBT:002142

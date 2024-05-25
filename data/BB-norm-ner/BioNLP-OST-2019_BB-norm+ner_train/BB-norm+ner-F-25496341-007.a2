@@ -1,0 +1,12 @@
+T1	Microorganism 29 38	Halomonas
+T2	Habitat 62 68	cheese
+T3	Microorganism 166 171	1 M45
+T4	Habitat 202 222	smear-ripened cheese
+T5	Habitat 297 316	manufacturing plant
+T6	Microorganism 366 393	Providencia heimbachae  GR4
+N1	NCBI_Taxonomy Annotation:T1 Referent:2745
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	NCBI_Taxonomy Annotation:T3 Referent:1255591
+N4	OntoBiotope Annotation:T4 Referent:OBT:003494
+N5	OntoBiotope Annotation:T5 Referent:OBT:003251
+N6	NCBI_Taxonomy Annotation:T6 Referent:1255655

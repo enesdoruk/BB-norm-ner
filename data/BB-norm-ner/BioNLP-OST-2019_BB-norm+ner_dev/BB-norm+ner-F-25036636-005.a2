@@ -1,0 +1,34 @@
+T1	Habitat 39 45	cheese
+T2	Habitat 190 199	community
+T3	Microorganism 223 237	Proteobacteria
+T4	Microorganism 253 264	Leuconostoc
+T5	Microorganism 280 287	Candida
+T6	Habitat 325 333	raw milk
+T7	Microorganism 367 374	Candida
+T8	Habitat 414 423	community
+T9	Microorganism 429 443	Proteobacteria
+T10	Microorganism 462 476	Staphylococcus
+T11	Habitat 509 514	rinds
+T12	Microorganism 539 553	Brevibacterium
+T13	Microorganism 558 573	Brachybacterium
+T14	Microorganism 590 601	Penicillium
+T15	Microorganism 606 620	Scopulariopsis
+T16	Habitat 676 685	community
+T17	Habitat 707 721	mature cheeses
+N1	OntoBiotope Annotation:T1 Referent:OBT:001480
+N2	OntoBiotope Annotation:T2 Referent:OBT:000113
+N3	NCBI_Taxonomy Annotation:T3 Referent:1224
+N4	NCBI_Taxonomy Annotation:T4 Referent:1243
+N5	NCBI_Taxonomy Annotation:T5 Referent:1535326
+N6	OntoBiotope Annotation:T6 Referent:OBT:001276
+N7	NCBI_Taxonomy Annotation:T7 Referent:1535326
+N8	OntoBiotope Annotation:T8 Referent:OBT:000113
+N9	NCBI_Taxonomy Annotation:T9 Referent:1224
+N10	NCBI_Taxonomy Annotation:T10 Referent:1279
+N11	OntoBiotope Annotation:T11 Referent:OBT:001481
+N12	NCBI_Taxonomy Annotation:T12 Referent:1696
+N13	NCBI_Taxonomy Annotation:T13 Referent:43668
+N14	NCBI_Taxonomy Annotation:T14 Referent:5073
+N15	NCBI_Taxonomy Annotation:T15 Referent:40374
+N16	OntoBiotope Annotation:T16 Referent:OBT:000113
+N17	OntoBiotope Annotation:T17 Referent:OBT:001480

@@ -1,0 +1,34 @@
+T1	Habitat 3 20	semi-hard cheeses
+T2	Habitat 27 32	Gouda
+T3	Habitat 36 43	Cheddar
+T4	Microorganism 130 145	Lactococcus sp.
+T5	Microorganism 153 170	Lactobacillus sp.
+T6	Habitat 326 340	dairy products
+T7	Microorganism 345 362	Propionibacterium
+T8	Habitat 370 380	Maasdammer
+T9	Habitat 385 403	Swiss-type cheeses
+T10	Microorganism 429 446	Streptococcus sp.
+T11	Microorganism 448 467	Lb. bulgaricus spp.
+T12	Microorganism 472 491	Bifidobacterium sp.
+T13	Habitat 514 522	yoghurts
+T14	Microorganism 594 606	Arthrobacter
+T15	Microorganism 608 622	Brevibacterium
+T16	Microorganism 627 646	Corynebacterium sp.
+T17	Habitat 650 673	surface-ripened cheeses
+N1	OntoBiotope Annotation:T1 Referent:OBT:003458
+N2	OntoBiotope Annotation:T2 Referent:OBT:003474
+N3	OntoBiotope Annotation:T3 Referent:OBT:003469
+N4	NCBI_Taxonomy Annotation:T4 Referent:44273
+N5	NCBI_Taxonomy Annotation:T5 Referent:1591
+N6	OntoBiotope Annotation:T6 Referent:OBT:001208
+N7	NCBI_Taxonomy Annotation:T7 Referent:1743
+N8	OntoBiotope Annotation:T8 Referent:OBT:003458
+N9	OntoBiotope Annotation:T9 Referent:OBT:003428
+N10	NCBI_Taxonomy Annotation:T10 Referent:1306
+N11	NCBI_Taxonomy Annotation:T11 Referent:1585
+N12	NCBI_Taxonomy Annotation:T12 Referent:41200
+N13	OntoBiotope Annotation:T13 Referent:OBT:003241
+N14	NCBI_Taxonomy Annotation:T14 Referent:1663
+N15	NCBI_Taxonomy Annotation:T15 Referent:1696
+N16	NCBI_Taxonomy Annotation:T16 Referent:1720
+N17	OntoBiotope Annotation:T17 Referent:OBT:003428

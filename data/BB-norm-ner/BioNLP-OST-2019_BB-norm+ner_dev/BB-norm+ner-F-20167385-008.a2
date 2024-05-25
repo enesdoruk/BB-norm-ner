@@ -1,0 +1,22 @@
+T1	Habitat 41 57	white mould rind
+T2	Habitat 59 74	Scimudin cheese
+T3	Microorganism 100 109	M. luteus
+T4	Microorganism 114 129	P. glacincolaus
+T5	Microorganism 150 162	S. vitulinus
+T6	Habitat 181 198	Casera Valtellina
+T7	Habitat 202 208	cheese
+T8	Habitat 252 256	rind
+T9	Microorganism 287 297	S. equorum
+T10	Microorganism 299 308	B. linens
+T11	Microorganism 313 321	B. casei
+N1	OntoBiotope Annotation:T1 Referent:OBT:001481
+N2	OntoBiotope Annotation:T2 Referent:OBT:003522
+N3	NCBI_Taxonomy Annotation:T3 Referent:415
+N4	NCBI_Taxonomy Annotation:T4 Referent:56810
+N5	NCBI_Taxonomy Annotation:T5 Referent:71237
+N6	OntoBiotope Annotation:T6 Referent:OBT:003483
+N7	OntoBiotope Annotation:T7 Referent:OBT:001480
+N8	OntoBiotope Annotation:T8 Referent:OBT:001481
+N9	NCBI_Taxonomy Annotation:T9 Referent:246432
+N10	NCBI_Taxonomy Annotation:T10 Referent:1703
+N11	NCBI_Taxonomy Annotation:T11 Referent:33889

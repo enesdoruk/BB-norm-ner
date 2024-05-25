@@ -1,0 +1,10 @@
+T1	Phenotype 38 51	Gram-negative
+T2	Microorganism 62 81	Psychrobacter celer
+T3	Microorganism 86 98	Hafnia alvei
+T4	Habitat 132 187	microbial community of an experimental smear soft chees
+T5	Habitat 158 188	experimental smear soft cheese
+N1	OntoBiotope Annotation:T1 Referent:OBT:000648
+N2	NCBI_Taxonomy Annotation:T2 Referent:306572
+N3	NCBI_Taxonomy Annotation:T3 Referent:569
+N4	OntoBiotope Annotation:T4 Referent:OBT:000113
+N5	OntoBiotope Annotation:T5 Referent:OBT:003494

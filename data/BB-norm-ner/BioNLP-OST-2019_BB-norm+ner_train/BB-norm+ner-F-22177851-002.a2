@@ -1,0 +1,48 @@
+T1	Habitat 7 11	milk
+T2	Phenotype 25 45	lactic acid bacteria
+T3	Microorganism 54 72	Lactococcus lactis
+T4	Habitat 81 85	curd
+T5	Phenotype 176 189	acid-tolerant
+T6	Microorganism 198 219	Debaryomyces hansenii
+T7	Microorganism 221 240	Geotrichum candidum
+T8	Microorganism 242 259	Kluyveromyces sp.
+T9	Microorganism 264 283	Yarrowia lipolytica
+T10	Habitat 455 469	cheese surface
+T11	Habitat 455 461	cheese
+T12	Phenotype 500 518	less acid-tolerant
+T13	Phenotype 520 527	aerobic
+T14	Phenotype 531 553	facultative  anaerobic
+T15	Phenotype 555 572	catalase-positive
+T16	Phenotype 574 587	halo-tolerant
+T17	Phenotype 588 601	Gram-positive
+T18	Microorganism 630 656	Brevibacterium aurantiacum
+T19	Microorganism 658 673	Corynebacterium
+T20	Microorganism 675 687	Arthrobacter
+T21	Microorganism 692 711	Staphylococcus spp.
+T22	Habitat 754 760	cheese
+T23	Habitat 754 768	cheese surface
+T24	Habitat 865 893	smear surface-ripened cheese
+N1	OntoBiotope Annotation:T1 Referent:OBT:001645
+N2	OntoBiotope Annotation:T2 Referent:OBT:000019
+N3	NCBI_Taxonomy Annotation:T3 Referent:1358
+N4	OntoBiotope Annotation:T4 Referent:OBT:001208
+N5	OntoBiotope Annotation:T5 Referent:OBT:002883
+N6	NCBI_Taxonomy Annotation:T6 Referent:4959
+N7	NCBI_Taxonomy Annotation:T7 Referent:1173061
+N8	NCBI_Taxonomy Annotation:T8 Referent:4910
+N9	NCBI_Taxonomy Annotation:T9 Referent:4952
+N10	OntoBiotope Annotation:T10 Referent:OBT:001341
+N11	OntoBiotope Annotation:T11 Referent:OBT:001480
+N12	OntoBiotope Annotation:T12 Referent:OBT:002883
+N13	OntoBiotope Annotation:T13 Referent:OBT:000179
+N14	OntoBiotope Annotation:T14 Referent:OBT:000279
+N15	OntoBiotope Annotation:T15 Referent:OBT:000222
+N16	OntoBiotope Annotation:T16 Referent:OBT:002711
+N17	OntoBiotope Annotation:T17 Referent:OBT:000649
+N18	NCBI_Taxonomy Annotation:T18 Referent:273384
+N19	NCBI_Taxonomy Annotation:T19 Referent:1716
+N20	NCBI_Taxonomy Annotation:T20 Referent:1663
+N21	NCBI_Taxonomy Annotation:T21 Referent:29387
+N22	OntoBiotope Annotation:T22 Referent:OBT:001480
+N23	OntoBiotope Annotation:T23 Referent:OBT:001341
+N24	OntoBiotope Annotation:T24 Referent:OBT:003494

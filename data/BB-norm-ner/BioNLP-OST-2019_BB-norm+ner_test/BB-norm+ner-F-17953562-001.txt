@@ -1,0 +1,32 @@
+The E. faecalis strains were characterized by a relevant reduction power. In fact, this species showed the lowest Ehmin (−221 ± 13·4 mV), the largest Δmax (326 ± 93·1 mV), and was the fastest to reach Δmax (t*: 1·1 ± 0·3 h) (Table 2). The behaviour of the 10 strains was the same except for VS368, which was the most rapid E. faecalis strain (t*: 0·5 h) and, at the same time, the one showing the highest Ehmin (−189 mV). At 37°C, the mean curves for E. faecium, E. durans and L. lactis ssp. lactis
+ had similar Eh evolution (sharp decrease around the second hour of 
+culture), but the minimum values were different. The strains of L. lactis ssp. lactis were more reducing than the strains of the other two species: Ehmin: −162 ± 32·9 mV vs−138 ± 31·3 and −120 ± 29·0, respectively (Fig. 2). The 10 strains of E. faecium
+ had similar reduction power, although after 24 h of incubation 
+three strains, FK5, FK6 and FK7, isolated from Scimudin cheese, showed 
+higher reducing activity than the other seven. The slowest and least 
+reducing strain, 174, was isolated from Caciocavallo Ragusano cheese. 
+The E. durans strains showed similar Eh evolution over 
+24 h, except for VS263 isolated from Formagèla Valseriana cheese. 
+VS263 was the fastest to achieve Ehmin and Δmax (tmin: 2·0 h; t*: 1·0 h) and had higher reduction power (Ehmin: −171 mV) than the others. The L. lactis ssp. lactis strains had the highest reduction activity after the E. faecalis strains. Their Ehmin values were: −162 ± 32·9 mV, and they were characterized by a rapid decrease in tmin 3·8 ± 0·8 h and t*
+ 2·2 ± 0·3 h. Once again ‘atypical’ behaviour was 
+detected in the strains isolated from Formagèla Valseriana, namely VS179
+ and VS180, these being revealed to have lower reduction power compared 
+with the other lactococci belonging to the same species. Streptococcus thermophilus,
+ the major species used as the starter culture in cheese manufacture, 
+was the slowest of the tested LAB species. Its reduction activity 
+increased constantly, and it consequently had a smaller Δmax; all the strains reached Ehmin
+ at the end of the 24-h incubation period, the exception being O2A 
+isolated from Fontina, found to be the most reducing and reaching Ehmin after 14 h. Instead, strain LOD11 was the slowest S. thermophilus strain (t*: 4·5 h), however it also had the highest Ehmin (−45 mV). Among the lactobacilli, the highest reducing species was L. paracasei ssp. paracasei: their strains showed the lowest Ehmin (−169 ± 13·8 mV), and were the fastest to achieve Δmax (4·2 ± 1·3 h). The B1B strain showed similar behaviour to the enterococci (Ehmin: −186; t*: 3 h) (Table 3). On the contrary, the BB3 strain isolated from Formai de Mut cheese was very slow: it took 12 h to reach Ehmin. The redox curve of L. paracasei ssp. paracasei, comparable with that of E. faecalis and reaching similar final values, shows a more gradual slope (lower Δmax) reached over longer times. With regard to the strains of L. plantarum,
+ the redox potential course is characterized by an initial stabilizing 
+period followed by a rapid and consistent decrease corresponding to the 
+major Δmax (229 ± 88·6 mV) found among the 
+tested lactobacilli. This species showed good reduction power and was as
+ fast in reaching Δmax as L. paracasei ssp. paracasei. The lowest reducing lactobacilli were found to be L. delbrueckii ssp. bulgaricus and L. helveticus (Ehmin: −54 ± 20·4 mV and −54 ± 23·8 mV). Furthermore, for both the thermophilic lactobacilli species, Eh decreased slowly (L. delbrueckii ssp. bulgaricus: t*: 6·0 ± 1·7 h and L. helveticus t*: 6·4 ± 1·6 h), the mean curves showing similar evolution over the 24-h period. All the strains of P. pentosaceus had poor reduction activity. In fact, they showed the highest Ehmin (−59 ± 23·5 mV), the smallest Δmax (24 ± 8·9 mV) and were the slowest to achieve Δmax
+ (5 ± 2·2 h). Most of the selected isolates for this 
+investigation came from cheeses produced in the mountains, and it is 
+interesting to note that the majority of the strains from Scimudin 
+cheese (77·7%) were the fastest to achieve Ehmin, while the 
+strains isolated from Formai de Mut took more time to reach the minimum 
+Eh value. Isolated from Formagèla Valseriana were the strains L. lactis ssp. lactis and E. durans;
+ these strains, except for VS263, showed lower reduction power than the 
+other strains of the same species, but, nevertheless, took less time.

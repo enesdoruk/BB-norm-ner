@@ -1,0 +1,20 @@
+T1	Phenotype 15 28	Gram-negative
+T2	Habitat 127 144	yeast communities
+T3	Phenotype 163 176	Gram-negative
+T4	Microorganism 268 279	D. hansenii
+T5	Microorganism 292 303	G. candidum
+T6	Habitat 318 324	cheese
+T7	Habitat 318 332	cheese surface
+T8	Microorganism 411 422	G. candidum
+T9	Microorganism 474 485	D. hansenii
+T10	Microorganism 560 573	Y. lipolytica
+N1	OntoBiotope Annotation:T1 Referent:OBT:000648
+N2	OntoBiotope Annotation:T2 Referent:OBT:000113
+N3	OntoBiotope Annotation:T3 Referent:OBT:000648
+N4	NCBI_Taxonomy Annotation:T4 Referent:4959
+N5	NCBI_Taxonomy Annotation:T5 Referent:1173061
+N6	OntoBiotope Annotation:T6 Referent:OBT:001480
+N7	OntoBiotope Annotation:T7 Referent:OBT:001341
+N8	NCBI_Taxonomy Annotation:T8 Referent:1173061
+N9	NCBI_Taxonomy Annotation:T9 Referent:4959
+N10	NCBI_Taxonomy Annotation:T10 Referent:4952

@@ -1,0 +1,16 @@
+Watanabe et al. (2014)
+ reported that Japanese natto and Korean soybean products contain 0.1 to
+ 0.9 μg per 100 g. All these samples were analyzed by the 
+microbiological assay, which cannot distinguish analogs.Hugenschmidt et al. reported that Lactobacillus plantarum SM39 and Propionibacterium freudenreichii used in a cofermentation of whey produced up to 8 μg of cobalamin per mL (Hugenschmidt et al., 2011). Watanabe et al. (2014) reported that the addition of Propionibacteria to cabbage during sauerkraut production resulted in higher concentrations of B12 (7.2 μg/100 mL). Although we produced less vitamin B12 than their fermentations, our samples do not have the pungent odor from propionic acid.In this work cofermentation of glycerol and fructose was also confirmed to have a positive effect on the production of vitamin B12 (Table 1). Glycerol is a vital interesting topic not only for vitamin B12 production but also for the growth of cells. Glycerol works as an inducer of vitamin B12 synthesis cluster (Roth et al., 1996). In Fig. 1, cobT and cbiA genes were obviously induced by glycerol, but cbiA was induced more than cobT. The increase expression of both enzymes accelerated the synthesis of vitamin B12 and led to a higher production of vitamin B12. In this condition, vitamin B12 synthesis also increased the production of vitamin B12 analogs.Vitamin B12 dependent enzymes in L. reuteri are involved in the conversion from glycerol to 3-HPA in order to regenerate NAD+
+ with more ATP generation. Some researchers demonstrated that glycerol 
+serves only as an external hydrogen acceptor in the glycerol 
+fermentation of L. reuteri, and does not work as a carbon source ( Sriramulu et al., 2008). Our work of glycerol used as an external hydrogen acceptor (Table 2) is in agreement with the above results. An obvious shift of end products from ethanol to acetate was observed in our results (Table 2). Similar results were found in the work of Lüthi-Peng et al. (2002)
+ and coworkers. They stated that a sufficient supplementation of glucose
+ compared to glycerol could improve the generation of 1, 3-propanediol 
+and acetate, and reduced the accumulation of 3-HPA and lactate. Vitamin B12 production (Table 1)
+ was indeed improved with the supplementation of glycerol since glucose 
+was utilized via a more efficient pathway to generate ATP and glucose 
+was not involved in the redox balance, but high concentrations of 
+glycerol supplementations in our work definitely inhibited the growth of
+ cells. It may attribute to an activity of glycerol dehydratase 
+inhibited by a quorum sensing of reuterin (Bauer et al., 2010).

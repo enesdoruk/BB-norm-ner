@@ -1,0 +1,66 @@
+T1	Habitat 56 120	community of Staphylococcus and micrococci-corynebacteria groups
+T2	Microorganism 69 83	Staphylococcus
+T3	Microorganism 88 98	micrococci
+T4	Microorganism 99 113	corynebacteria
+T5	Habitat 128 134	cheese
+T6	Habitat 128 143	cheese surfaces
+T7	Microorganism 154 164	E. faecium
+T8	Habitat 184 202	Formaggio di Fossa
+T9	Microorganism 219 230	enterococci
+T10	Habitat 245 273	Enterococcus  selective agar
+T11	Microorganism 245 257	Enterococcus
+T12	Habitat 275 277	SB
+T13	Habitat 331 337;373 380	Casera cheeses
+T14	Habitat 339 347;373 380	Taleggio cheeses
+T15	Habitat 349 359;373 380	Gorgonzola cheeses
+T16	Habitat 364 380	Scimudin cheeses
+T17	Microorganism 382 394	Lactobacilli
+T18	Habitat 421 432	Rogosa agar
+T19	Habitat 440 446	cheese
+T20	Habitat 440 455	cheese surfaces
+T21	Habitat 510 526	Pseudomonas agar
+T22	Microorganism 510 521	Pseudomonas
+T23	Habitat 540 550;574 582	Gorgonzola surfaces
+T24	Habitat 540 550	Gorgonzola
+T25	Habitat 552 560;574 582	Scimudin surfaces
+T26	Habitat 552 560	Scimudin
+T27	Habitat 565 573	Taleggio
+T28	Habitat 565 582	Taleggio surfaces
+T29	Habitat 607 613	Casera
+T30	Microorganism 626 637	Pseudomonas
+T31	Habitat 700 718	Formaggio di Fossa
+T32	Habitat 790 796	cheese
+T33	Habitat 790 805	cheese surfaces
+N1	OntoBiotope Annotation:T1 Referent:OBT:000113
+N2	NCBI_Taxonomy Annotation:T2 Referent:1279
+N3	NCBI_Taxonomy Annotation:T3 Referent:1269
+N4	NCBI_Taxonomy Annotation:T4 Referent:1716
+N5	OntoBiotope Annotation:T5 Referent:OBT:001480
+N6	OntoBiotope Annotation:T6 Referent:OBT:001341
+N7	NCBI_Taxonomy Annotation:T7 Referent:1352
+N8	OntoBiotope Annotation:T8 Referent:OBT:003473
+N9	NCBI_Taxonomy Annotation:T9 Referent:1350
+N10	OntoBiotope Annotation:T10 Referent:OBT:000031
+N11	NCBI_Taxonomy Annotation:T11 Referent:1350
+N12	OntoBiotope Annotation:T12 Referent:OBT:000031
+N13	OntoBiotope Annotation:T13 Referent:OBT:003483
+N14	OntoBiotope Annotation:T14 Referent:OBT:003525
+N15	OntoBiotope Annotation:T15 Referent:OBT:003504
+N16	OntoBiotope Annotation:T16 Referent:OBT:003522
+N17	NCBI_Taxonomy Annotation:T17 Referent:1578
+N18	OntoBiotope Annotation:T18 Referent:OBT:000031
+N19	OntoBiotope Annotation:T19 Referent:OBT:001480
+N20	OntoBiotope Annotation:T20 Referent:OBT:001341
+N21	OntoBiotope Annotation:T21 Referent:OBT:000031
+N22	NCBI_Taxonomy Annotation:T22 Referent:286
+N23	OntoBiotope Annotation:T23 Referent:OBT:001341
+N24	OntoBiotope Annotation:T24 Referent:OBT:003504
+N25	OntoBiotope Annotation:T25 Referent:OBT:001341
+N26	OntoBiotope Annotation:T26 Referent:OBT:003522
+N27	OntoBiotope Annotation:T27 Referent:OBT:003525
+N28	OntoBiotope Annotation:T28 Referent:OBT:001341
+N29	OntoBiotope Annotation:T29 Referent:OBT:003483
+N30	NCBI_Taxonomy Annotation:T30 Referent:286
+N31	OntoBiotope Annotation:T31 Referent:OBT:003473
+N32	OntoBiotope Annotation:T32 Referent:OBT:001480
+N33	OntoBiotope Annotation:T33 Referent:OBT:001341

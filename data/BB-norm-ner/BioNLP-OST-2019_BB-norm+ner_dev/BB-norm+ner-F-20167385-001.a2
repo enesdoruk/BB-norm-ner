@@ -1,0 +1,20 @@
+T1	Phenotype 98 111	Gram positive
+T2	Phenotype 113 130	catalase positive
+T3	Phenotype 132 145	salt-tolerant
+T4	Phenotype 188 206	coagulase-negative
+T5	Phenotype 207 212	cocci
+T6	Microorganism 224 243	coryneform bacteria
+T7	Microorganism 273 287	Staphylococcus
+T8	Microorganism 289 300	Micrococcus
+T9	Microorganism 302 316	Brevibacterium
+T10	Microorganism 322 334	Arthrobacter
+N1	OntoBiotope Annotation:T1 Referent:OBT:000649
+N2	OntoBiotope Annotation:T2 Referent:OBT:000222
+N3	OntoBiotope Annotation:T3 Referent:OBT:002711
+N4	OntoBiotope Annotation:T4 Referent:OBT:000235
+N5	OntoBiotope Annotation:T5 Referent:OBT:000850
+N6	NCBI_Taxonomy Annotation:T6 Referent:1653
+N7	NCBI_Taxonomy Annotation:T7 Referent:1279
+N8	NCBI_Taxonomy Annotation:T8 Referent:1269
+N9	NCBI_Taxonomy Annotation:T9 Referent:1696
+N10	NCBI_Taxonomy Annotation:T10 Referent:1663

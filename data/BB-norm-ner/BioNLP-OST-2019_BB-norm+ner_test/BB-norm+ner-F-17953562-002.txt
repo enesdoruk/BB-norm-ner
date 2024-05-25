@@ -1,0 +1,4 @@
+The second component has a heavy loading only for t* (0·61). Indeed, we immediately identified distinct groups of strains corresponding to Enterococcus spp., L. lactis ssp. lactis; L. paracasei ssp. paracasei, L. plantarum, thermophilic lactobacilli (L. delbrueckii ssp. bulgaricus, L. helveticus) and S. thermophilus and, furthermore, noted important differences among the strains of the same species. As can be seen from Fig. 4, E. faecalis, E. faecium, E. durans and L. lactis ssp. lactis were placed in quadrant 3, while L. paracasei ssp. paracasei and L. plantarum
+ were in quadrant 2. In fact, both groups are associated with high 
+reduction activity, and the species tend to fall on the left side of the
+ plot where the variable corresponding to Δmax was located.

@@ -1,0 +1,8 @@
+T1	Microorganism 0 34	Corynebacterium ammoniagenes B1506
+T2	Microorganism 39 64	Lactococcus lactis  B1157
+T3	Phenotype 70 109;131 146	able to produce considerable amounts of 3-methylbutanol
+T4	Phenotype 70 125	able to produce considerable amounts of 3-methylbutanal
+N1	NCBI_Taxonomy Annotation:T1 Referent:1697
+N2	NCBI_Taxonomy Annotation:T2 Referent:1358
+N3	OntoBiotope Annotation:T3 Referent:OBT:000019
+N4	OntoBiotope Annotation:T4 Referent:OBT:000019

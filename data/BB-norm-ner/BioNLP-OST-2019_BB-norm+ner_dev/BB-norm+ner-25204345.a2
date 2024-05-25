@@ -1,0 +1,38 @@
+T3	Phenotype 61 81	quinolone resistance
+T4	Phenotype 92 112	lactic acid bacteria
+T5	Phenotype 118 138	quinolone resistance
+T6	Phenotype 145 166	lactic acid bacterial
+T7	Microorganism 199 211	Enterococcus
+T8	Microorganism 216 229	Lactobacillus
+T9	Habitat 248 273	natural fermented koumiss
+T10	Habitat 278 285	yoghurt
+T11	Phenotype 354 374	quinolone resistance
+T12	Phenotype 420 430	resistance
+T13	Phenotype 655 664	probiotic
+T14	Phenotype 665 685	lactic acid bacteria
+T15	Phenotype 686 701	drug resistance
+T16	Phenotype 792 812	quinolone resistance
+T17	Phenotype 885 903;920 933	resistance towards ciprofloxacin
+T18	Phenotype 885 915	resistance towards norfloxacin
+T19	Phenotype 1261 1281	quinolone resistance
+T20	Phenotype 1416 1436	quinolone resistance
+T21	Microorganism 1470 1494	Enterococcus durans HZ28
+N1	OntoBiotope Annotation:T3 Referent:OBT:002840
+N2	OntoBiotope Annotation:T4 Referent:OBT:000019
+N3	OntoBiotope Annotation:T5 Referent:OBT:002840
+N4	OntoBiotope Annotation:T6 Referent:OBT:000019
+N5	NCBI_Taxonomy Annotation:T7 Referent:1350
+N6	NCBI_Taxonomy Annotation:T8 Referent:1578
+N7	OntoBiotope Annotation:T9 Referent:OBT:003210
+N8	OntoBiotope Annotation:T10 Referent:OBT:003241
+N9	OntoBiotope Annotation:T11 Referent:OBT:002840
+N10	OntoBiotope Annotation:T12 Referent:OBT:002840
+N11	OntoBiotope Annotation:T13 Referent:OBT:000827
+N12	OntoBiotope Annotation:T14 Referent:OBT:000019
+N13	OntoBiotope Annotation:T15 Referent:OBT:000598
+N14	OntoBiotope Annotation:T16 Referent:OBT:002840
+N15	OntoBiotope Annotation:T17 Referent:OBT:002773
+N16	OntoBiotope Annotation:T18 Referent:OBT:002824
+N17	OntoBiotope Annotation:T19 Referent:OBT:002840
+N18	OntoBiotope Annotation:T20 Referent:OBT:002840
+N19	NCBI_Taxonomy Annotation:T21 Referent:53345

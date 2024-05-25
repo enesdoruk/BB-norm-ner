@@ -1,0 +1,10 @@
+T1	Microorganism 20 28	P. celer
+T2	Habitat 73 79	cheese
+T3	Microorganism 282 290	P. celer
+T4	Microorganism 436 444	H. alvei
+T5	Habitat 480 499	bacterial community
+N1	NCBI_Taxonomy Annotation:T1 Referent:306572
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	NCBI_Taxonomy Annotation:T3 Referent:306572
+N4	NCBI_Taxonomy Annotation:T4 Referent:569
+N5	OntoBiotope Annotation:T5 Referent:OBT:000113

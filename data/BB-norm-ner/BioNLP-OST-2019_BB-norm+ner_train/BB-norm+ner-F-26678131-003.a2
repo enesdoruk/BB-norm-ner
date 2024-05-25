@@ -1,0 +1,26 @@
+T1	Habitat 0 7	Cheeses
+T2	Microorganism 41 60	Lb. plantarum (FH3)
+T3	Microorganism 62 76	H. alvei (B16)
+T4	Microorganism 78 95	Lc. lactis (D5.3)
+T5	Phenotype 118 135	dextran-producing
+T6	Microorganism 136 147	Leuconostoc
+T7	Microorganism 149 160	Lactococcus
+T8	Microorganism 162 175	Lactobacillus
+T9	Microorganism 209 220	Pseudomonas
+T10	Phenotype 221 234	Gram negative
+T11	Microorganism 306 317	Pseudomonas
+T12	Phenotype 320 333	Gram positive
+T13	Phenotype 334 351	catalase positive
+N1	OntoBiotope Annotation:T1 Referent:OBT:001480
+N2	NCBI_Taxonomy Annotation:T2 Referent:1590
+N3	NCBI_Taxonomy Annotation:T3 Referent:569
+N4	NCBI_Taxonomy Annotation:T4 Referent:1358
+N5	OntoBiotope Annotation:T5 Referent:OBT:000019
+N6	NCBI_Taxonomy Annotation:T6 Referent:1243
+N7	NCBI_Taxonomy Annotation:T7 Referent:1357
+N8	NCBI_Taxonomy Annotation:T8 Referent:1578
+N9	NCBI_Taxonomy Annotation:T9 Referent:286
+N10	OntoBiotope Annotation:T10 Referent:OBT:000648
+N11	NCBI_Taxonomy Annotation:T11 Referent:286
+N12	OntoBiotope Annotation:T12 Referent:OBT:000649
+N13	OntoBiotope Annotation:T13 Referent:OBT:000222

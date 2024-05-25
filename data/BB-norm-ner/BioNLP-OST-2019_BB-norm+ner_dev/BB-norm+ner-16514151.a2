@@ -1,0 +1,12 @@
+T3	Phenotype 120 138	mercury resistance
+T4	Phenotype 140 143	mer
+T5	Microorganism 674 690	Escherichia coli
+T6	Habitat 810 821	rich medium
+T7	Microorganism 1336 1343	E. coli
+T8	Microorganism 1387 1410	Deinococcus radiodurans
+N1	OntoBiotope Annotation:T3 Referent:OBT:002521
+N2	OntoBiotope Annotation:T4 Referent:OBT:002521
+N3	NCBI_Taxonomy Annotation:T5 Referent:562
+N4	OntoBiotope Annotation:T6 Referent:OBT:000007
+N5	NCBI_Taxonomy Annotation:T7 Referent:562
+N6	NCBI_Taxonomy Annotation:T8 Referent:1299

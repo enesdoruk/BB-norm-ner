@@ -1,0 +1,12 @@
+T1	Microorganism 58 79	Brevibacterium linens
+T2	Habitat 142 159	farmhouse cheeses
+T3	Habitat 142 151	farmhouse
+T4	Microorganism 168 188	Brevibacterium  spp.
+T5	Habitat 206 238	cheese from the industrial dairy
+T6	Habitat 222 238	industrial dairy
+N1	NCBI_Taxonomy Annotation:T1 Referent:1703
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	OntoBiotope Annotation:T3 Referent:OBT:000583
+N4	NCBI_Taxonomy Annotation:T4 Referent:1696
+N5	OntoBiotope Annotation:T5 Referent:OBT:001480
+N6	OntoBiotope Annotation:T6 Referent:OBT:001988

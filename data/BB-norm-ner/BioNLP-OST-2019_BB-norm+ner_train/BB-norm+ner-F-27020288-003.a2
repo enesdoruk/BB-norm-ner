@@ -1,0 +1,8 @@
+T1	Phenotype 48 65	β-glucan produced
+T2	Microorganism 69 80	P. parvulus
+T3	Microorganism 92 115	Lactobacillus paracasei
+T4	Habitat 140 156	gastrointestinal
+N1	OntoBiotope Annotation:T1 Referent:OBT:000019
+N2	NCBI_Taxonomy Annotation:T2 Referent:54062
+N3	NCBI_Taxonomy Annotation:T3 Referent:1597
+N4	OntoBiotope Annotation:T4 Referent:OBT:000641

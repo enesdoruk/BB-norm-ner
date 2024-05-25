@@ -1,0 +1,16 @@
+T3	Microorganism 0 13	Campylobacter
+T4	Phenotype 280 311	human gastrointestinal pathogen
+T5	Habitat 280 285	human
+T6	Habitat 280 302	human gastrointestinal
+T7	Microorganism 312 332	Campylobacter jejuni
+T8	Microorganism 422 431	C. jejuni
+T9	Microorganism 456 474	Campylobacter coli
+T10	Microorganism 815 828	Campylobacter
+N1	NCBI_Taxonomy Annotation:T3 Referent:194
+N2	OntoBiotope Annotation:T5 Referent:OBT:002488
+N3	OntoBiotope Annotation:T6 Referent:OBT:000641
+N4	OntoBiotope Annotation:T4 Referent:OBT:002806
+N5	NCBI_Taxonomy Annotation:T7 Referent:197
+N6	NCBI_Taxonomy Annotation:T8 Referent:197
+N7	NCBI_Taxonomy Annotation:T9 Referent:195
+N8	NCBI_Taxonomy Annotation:T10 Referent:194

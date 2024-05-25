@@ -1,0 +1,4 @@
+T1	Habitat 51 57	cheese
+T2	Microorganism 87 95	P. celer
+N1	OntoBiotope Annotation:T1 Referent:OBT:001480
+N2	NCBI_Taxonomy Annotation:T2 Referent:306572

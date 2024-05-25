@@ -1,0 +1,18 @@
+T1	Microorganism 67 79	Arthrobacter
+T2	Habitat 102 108	cheese
+T3	Microorganism 174 186	Arthrobacter
+T4	Habitat 226 230	soil
+T5	Phenotype 264 274	ubiquitous
+T6	Habitat 306 312	cheese
+T7	Habitat 387 401	cheese habitat
+T8	Phenotype 452 479	catabolism of D-galactonate
+T9	Microorganism 506 537	Arthrobacter arilaitensis Re117
+N1	NCBI_Taxonomy Annotation:T1 Referent:1663
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	NCBI_Taxonomy Annotation:T3 Referent:1663
+N4	OntoBiotope Annotation:T4 Referent:OBT:000427
+N5	OntoBiotope Annotation:T5 Referent:OBT:000164
+N6	OntoBiotope Annotation:T6 Referent:OBT:001480
+N7	OntoBiotope Annotation:T7 Referent:OBT:001480
+N8	OntoBiotope Annotation:T8 Referent:OBT:000019
+N9	NCBI_Taxonomy Annotation:T9 Referent:861360

@@ -1,0 +1,4 @@
+T1	Habitat 127 151	community  with P. celer
+T2	Microorganism 143 151	P. celer
+N1	OntoBiotope Annotation:T1 Referent:OBT:000113
+N2	NCBI_Taxonomy Annotation:T2 Referent:306572

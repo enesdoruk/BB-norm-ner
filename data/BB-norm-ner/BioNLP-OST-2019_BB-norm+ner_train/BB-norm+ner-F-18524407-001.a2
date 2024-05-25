@@ -1,0 +1,18 @@
+T1	Habitat 0 5	Dairy
+T2	Microorganism 7 23	propionibacteria
+T3	Microorganism 179 213	P. freudenreichii subsp. shermanii
+T4	Phenotype 412 429	EPS  biosynthesis
+T5	Microorganism 433 449	propionibacteria
+T6	Microorganism 495 529	P. freudenreichii subsp. shermanii
+T7	Microorganism 567 572	TL 34
+T8	Phenotype 618 632	ropy-producing
+T9	Phenotype 650 667	production of EPS
+N1	OntoBiotope Annotation:T1 Referent:OBT:001208
+N2	NCBI_Taxonomy Annotation:T2 Referent:1743
+N3	NCBI_Taxonomy Annotation:T3 Referent:1752
+N4	OntoBiotope Annotation:T4 Referent:OBT:000019
+N5	NCBI_Taxonomy Annotation:T5 Referent:1743
+N6	NCBI_Taxonomy Annotation:T6 Referent:1752
+N7	NCBI_Taxonomy Annotation:T7 Referent:1752
+N8	OntoBiotope Annotation:T8 Referent:OBT:001288
+N9	OntoBiotope Annotation:T9 Referent:OBT:000019

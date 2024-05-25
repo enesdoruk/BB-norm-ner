@@ -1,0 +1,106 @@
+T3	Phenotype 0 15	Bile resistance
+T4	Habitat 0 4	Bile
+T5	Microorganism 19 37	Lactococcus lactis
+T6	Phenotype 133 148	Bile resistance
+T7	Habitat 133 137	Bile
+T8	Phenotype 188 197	probiotic
+T9	Phenotype 272 287	bile resistance
+T10	Habitat 272 276	bile
+T11	Microorganism 291 301	lactococci
+T12	Phenotype 339 354	bile resistance
+T13	Habitat 339 343	bile
+T14	Microorganism 394 405	lactococcci
+T15	Phenotype 450 465	bile resistance
+T16	Habitat 450 454	bile
+T17	Habitat 483 524;532 551	lactose-free M17 medium supplemented with glucose only (GM17)
+T18	Habitat 483 524;555 574	lactose-free M17 medium supplemented with lactose only (LM17)
+T19	Phenotype 819 834	bile resistance
+T20	Habitat 819 823	bile
+T21	Phenotype 935 950	bile resistance
+T22	Habitat 935 939	bile
+T23	Phenotype 1083 1098	bile resistance
+T24	Habitat 1083 1087	bile
+T25	Microorganism 1153 1178	L. lactis subsp. cremoris
+T26	Habitat 1196 1207	GM17 medium
+T27	Phenotype 1213 1227	bile-resistant
+T28	Habitat 1213 1217	bile
+T29	Phenotype 1286 1300	bile-sensitive
+T30	Habitat 1286 1290	bile
+T31	Habitat 1313 1324	LM17 medium
+T32	Phenotype 1326 1340	bile-resistant
+T33	Habitat 1326 1330	bile
+T34	Phenotype 1451 1465	bile-sensitive
+T35	Habitat 1451 1455	bile
+T36	Microorganism 1478 1501	L. lactis subsp. lactis
+T37	Phenotype 1511 1527	bile resistances
+T38	Habitat 1511 1515	bile
+T39	Phenotype 1607 1624	resistant to bile
+T40	Habitat 1620 1624	bile
+T41	Habitat 1628 1639	GM17 medium
+T42	Phenotype 1644 1661	sensitive to bile
+T43	Habitat 1657 1661	bile
+T44	Habitat 1665 1676	LM17 medium
+T45	Phenotype 1696 1705	resistant
+T46	Habitat 1749 1760	GM17 medium
+T47	Habitat 1948 1959	LM17 medium
+T48	Phenotype 2011 2025	bile-resistant
+T49	Habitat 2011 2015	bile
+T50	Microorganism 2026 2036	lactococci
+T51	Phenotype 2064 2078	bile-sensitive
+T52	Habitat 2064 2068	bile
+T53	Phenotype 2352 2367	bile resistance
+T54	Habitat 2352 2356	bile
+T55	Microorganism 2371 2381	lactococci
+N1	OntoBiotope Annotation:T4 Referent:OBT:000514
+N2	OntoBiotope Annotation:T3 Referent:OBT:000152
+N3	NCBI_Taxonomy Annotation:T5 Referent:1358
+N4	OntoBiotope Annotation:T7 Referent:OBT:000514
+N5	OntoBiotope Annotation:T6 Referent:OBT:000152
+N6	OntoBiotope Annotation:T8 Referent:OBT:000827
+N7	OntoBiotope Annotation:T10 Referent:OBT:000514
+N8	OntoBiotope Annotation:T9 Referent:OBT:000152
+N9	NCBI_Taxonomy Annotation:T11 Referent:1357
+N10	OntoBiotope Annotation:T13 Referent:OBT:000514
+N11	OntoBiotope Annotation:T12 Referent:OBT:000152
+N12	NCBI_Taxonomy Annotation:T14 Referent:1357
+N13	OntoBiotope Annotation:T16 Referent:OBT:000514
+N14	OntoBiotope Annotation:T15 Referent:OBT:000152
+N15	OntoBiotope Annotation:T17 Referent:OBT:000007
+N16	OntoBiotope Annotation:T18 Referent:OBT:000007
+N17	OntoBiotope Annotation:T20 Referent:OBT:000514
+N18	OntoBiotope Annotation:T19 Referent:OBT:000152
+N19	OntoBiotope Annotation:T22 Referent:OBT:000514
+N20	OntoBiotope Annotation:T21 Referent:OBT:000152
+N21	OntoBiotope Annotation:T24 Referent:OBT:000514
+N22	OntoBiotope Annotation:T23 Referent:OBT:000152
+N23	NCBI_Taxonomy Annotation:T25 Referent:1359
+N24	OntoBiotope Annotation:T26 Referent:OBT:000007
+N25	OntoBiotope Annotation:T28 Referent:OBT:000514
+N26	OntoBiotope Annotation:T27 Referent:OBT:000152
+N27	OntoBiotope Annotation:T30 Referent:OBT:000514
+N28	OntoBiotope Annotation:T29 Referent:OBT:000153
+N29	OntoBiotope Annotation:T31 Referent:OBT:000007
+N30	OntoBiotope Annotation:T33 Referent:OBT:000514
+N31	OntoBiotope Annotation:T32 Referent:OBT:000152
+N32	OntoBiotope Annotation:T35 Referent:OBT:000514
+N33	OntoBiotope Annotation:T34 Referent:OBT:000153
+N34	NCBI_Taxonomy Annotation:T36 Referent:1360
+N35	OntoBiotope Annotation:T38 Referent:OBT:000514
+N36	OntoBiotope Annotation:T37 Referent:OBT:000152
+N37	OntoBiotope Annotation:T39 Referent:OBT:000152
+N38	OntoBiotope Annotation:T40 Referent:OBT:000514
+N39	OntoBiotope Annotation:T41 Referent:OBT:000007
+N40	OntoBiotope Annotation:T42 Referent:OBT:000153
+N41	OntoBiotope Annotation:T43 Referent:OBT:000514
+N42	OntoBiotope Annotation:T44 Referent:OBT:000007
+N43	OntoBiotope Annotation:T45 Referent:OBT:000152
+N44	OntoBiotope Annotation:T46 Referent:OBT:000007
+N45	OntoBiotope Annotation:T47 Referent:OBT:000007
+N46	OntoBiotope Annotation:T49 Referent:OBT:000514
+N47	OntoBiotope Annotation:T48 Referent:OBT:000152
+N48	NCBI_Taxonomy Annotation:T50 Referent:1357
+N49	OntoBiotope Annotation:T52 Referent:OBT:000514
+N50	OntoBiotope Annotation:T51 Referent:OBT:000153
+N51	OntoBiotope Annotation:T54 Referent:OBT:000514
+N52	OntoBiotope Annotation:T53 Referent:OBT:000152
+N53	NCBI_Taxonomy Annotation:T55 Referent:1357

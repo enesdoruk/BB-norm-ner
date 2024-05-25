@@ -1,0 +1,16 @@
+T1	Microorganism 188 205	Str. thermophilus
+T2	Habitat 209 215	cheese
+T3	Habitat 209 225	cheese interiors
+T4	Microorganism 237 259	Vagococcus carniphilus
+T5	Microorganism 261 279	Psychrobacter spp.
+T6	Microorganism 284 296	Lb. curvatus
+T7	Habitat 301 316	cheese surfaces
+T8	Habitat 301 307	cheese
+N1	NCBI_Taxonomy Annotation:T1 Referent:1308
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	OntoBiotope Annotation:T3 Referent:OBT:000373
+N4	NCBI_Taxonomy Annotation:T4 Referent:218144
+N5	NCBI_Taxonomy Annotation:T5 Referent:56811
+N6	NCBI_Taxonomy Annotation:T6 Referent:28038
+N7	OntoBiotope Annotation:T7 Referent:OBT:001341
+N8	OntoBiotope Annotation:T8 Referent:OBT:001480

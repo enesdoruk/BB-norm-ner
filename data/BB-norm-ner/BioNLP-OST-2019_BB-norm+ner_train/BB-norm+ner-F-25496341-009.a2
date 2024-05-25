@@ -1,0 +1,8 @@
+T1	Habitat 30 36	cheese
+T2	Microorganism 229 248	Geotrichum candidum
+T3	Microorganism 250 271	Debaryomyces hansenii
+T4	Microorganism 277 299	Penicillium roqueforti
+N1	OntoBiotope Annotation:T1 Referent:OBT:001480
+N2	NCBI_Taxonomy Annotation:T2 Referent:1173061
+N3	NCBI_Taxonomy Annotation:T3 Referent:4959
+N4	NCBI_Taxonomy Annotation:T4 Referent:5082

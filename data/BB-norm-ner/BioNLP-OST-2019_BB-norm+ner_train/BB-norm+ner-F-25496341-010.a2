@@ -1,0 +1,4 @@
+T1	Microorganism 152 163	Leuconostoc
+T2	Habitat 253 260	cheeses
+N1	NCBI_Taxonomy Annotation:T1 Referent:1243
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480

@@ -1,0 +1,74 @@
+T3	Microorganism 30 53	Pseudomonas fluorescens
+T4	Habitat 98 122	cross-protective vaccine
+T5	Phenotype 212 225	Gram-negative
+T6	Phenotype 358 367	virulence
+T7	Phenotype 404 414	pathogenic
+T8	Phenotype 548 558	pathogenic
+T9	Microorganism 559 594	Pseudomonas fluorescens strain, TSS
+T10	Habitat 610 661	diseased Japanese flounder cultured in a local farm
+T11	Habitat 651 661	local farm
+T12	Microorganism 663 666	TSS
+T13	Microorganism 726 742	Escherichia coli
+T14	Phenotype 743 753	fur mutant
+T15	Microorganism 757 760	TSS
+T16	Phenotype 761 776	fur null mutant
+T17	Microorganism 778 781	TFM
+T18	Microorganism 812 815	TSS
+T19	Microorganism 817 820	TFM
+T20	Phenotype 902 963	decreased resistance against host serum bactericidal activity
+T21	Habitat 931 941	host serum
+T22	Habitat 1000 1004;1015 1022	host tissues
+T23	Habitat 1000 1010	host blood
+T24	Phenotype 1059 1078	bacterial virulence
+T25	Habitat 1084 1101	Japanese flounder
+T26	Habitat 1134 1146	live vaccine
+T27	Habitat 1194 1198	oral
+T28	Microorganism 1207 1210	TFM
+T29	Habitat 1250 1267	Japanese flounder
+T30	Microorganism 1285 1299	P. fluorescens
+T31	Microorganism 1319 1339	Aeromonas hydrophila
+T32	Microorganism 1440 1454	Vibrio harveyi
+T33	Microorganism 1474 1477	TFM
+T34	Habitat 1560 1577	Japanese flounder
+T35	Microorganism 1588 1591	TFM
+T36	Microorganism 1643 1653	V. harveyi
+T37	Microorganism 1658 1671	A. hydrophila
+N1	NCBI_Taxonomy Annotation:T3 Referent:294
+N2	OntoBiotope Annotation:T4 Referent:OBT:000464
+N3	OntoBiotope Annotation:T5 Referent:OBT:000648
+N4	OntoBiotope Annotation:T6 Referent:OBT:000375
+N5	OntoBiotope Annotation:T7 Referent:OBT:000375
+N6	OntoBiotope Annotation:T8 Referent:OBT:002669
+N7	NCBI_Taxonomy Annotation:T9 Referent:294
+N8	OntoBiotope Annotation:T10 Referent:OBT:000491
+N9	OntoBiotope Annotation:T10 Referent:OBT:003553
+N10	OntoBiotope Annotation:T11 Referent:OBT:000630
+N11	NCBI_Taxonomy Annotation:T12 Referent:294
+N12	NCBI_Taxonomy Annotation:T13 Referent:562
+N13	OntoBiotope Annotation:T14 Referent:OBT:000118
+N14	NCBI_Taxonomy Annotation:T15 Referent:294
+N15	OntoBiotope Annotation:T16 Referent:OBT:000118
+N16	NCBI_Taxonomy Annotation:T17 Referent:562
+N17	NCBI_Taxonomy Annotation:T18 Referent:294
+N18	NCBI_Taxonomy Annotation:T19 Referent:562
+N19	OntoBiotope Annotation:T20 Referent:OBT:000152
+N20	OntoBiotope Annotation:T21 Referent:OBT:000524
+N21	OntoBiotope Annotation:T22 Referent:OBT:000196
+N22	OntoBiotope Annotation:T23 Referent:OBT:000521
+N23	OntoBiotope Annotation:T24 Referent:OBT:002669
+N24	OntoBiotope Annotation:T25 Referent:OBT:003553
+N25	OntoBiotope Annotation:T25 Referent:OBT:000700
+N26	OntoBiotope Annotation:T26 Referent:OBT:000464
+N27	OntoBiotope Annotation:T27 Referent:OBT:001653
+N28	NCBI_Taxonomy Annotation:T28 Referent:562
+N29	OntoBiotope Annotation:T29 Referent:OBT:000700
+N30	OntoBiotope Annotation:T29 Referent:OBT:003553
+N31	NCBI_Taxonomy Annotation:T30 Referent:294
+N32	NCBI_Taxonomy Annotation:T31 Referent:644
+N33	NCBI_Taxonomy Annotation:T32 Referent:669
+N34	NCBI_Taxonomy Annotation:T33 Referent:562
+N35	OntoBiotope Annotation:T34 Referent:OBT:003553
+N36	OntoBiotope Annotation:T34 Referent:OBT:000700
+N37	NCBI_Taxonomy Annotation:T35 Referent:562
+N38	NCBI_Taxonomy Annotation:T36 Referent:669
+N39	NCBI_Taxonomy Annotation:T37 Referent:644

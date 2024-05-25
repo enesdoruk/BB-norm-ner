@@ -1,0 +1,78 @@
+T7	Phenotype 98 119	methicillin-resistant
+T8	Microorganism 120 141	Staphylococcus aureus
+T9	Habitat 161 169	patients
+T10	Habitat 175 187	nursing home
+T11	Phenotype 223 244	methicillin-resistant
+T12	Microorganism 245 266	Staphylococcus aureus
+T13	Microorganism 268 272	MRSA
+T14	Phenotype 268 272	MRSA
+T15	Habitat 292 316	skilled nursing facility
+T16	Habitat 318 321	SNF
+T17	Microorganism 513 517	MRSA
+T18	Phenotype 513 517	MRSA
+T19	Habitat 532 544	SNF patients
+T20	Habitat 532 535	SNF
+T21	Microorganism 593 597	MRSA
+T22	Phenotype 593 597	MRSA
+T23	Habitat 604 612	patients
+T24	Habitat 618 631	community SNF
+T25	Habitat 633 638;649 662	Nares swab cultures
+T26	Habitat 633 638	Nares
+T27	Habitat 643 662	stool swab cultures
+T28	Habitat 643 648	stool
+T29	Habitat 697 705	patients
+T30	Habitat 719 727	patients
+T31	Microorganism 739 743	MRSA
+T32	Phenotype 739 743	MRSA
+T33	Habitat 761 785	oxacillin screening agar
+T34	Microorganism 1090 1094	MRSA
+T35	Phenotype 1090 1094	MRSA
+T36	Habitat 1192 1213	patients from one SNF
+T37	Habitat 1210 1213	SNF
+T38	Microorganism 1583 1587	MRSA
+T39	Phenotype 1583 1587	MRSA
+T40	Habitat 1606 1609	SNF
+T41	Habitat 1606 1618	SNF patients
+N1	OntoBiotope Annotation:T7 Referent:OBT:002817
+N2	NCBI_Taxonomy Annotation:T8 Referent:1280
+N3	OntoBiotope Annotation:T9 Referent:OBT:003285
+N4	OntoBiotope Annotation:T10 Referent:OBT:001231
+N5	OntoBiotope Annotation:T11 Referent:OBT:002817
+N6	NCBI_Taxonomy Annotation:T12 Referent:1280
+N7	OntoBiotope Annotation:T14 Referent:OBT:002817
+N8	NCBI_Taxonomy Annotation:T13 Referent:1280
+N9	OntoBiotope Annotation:T15 Referent:OBT:001231
+N10	OntoBiotope Annotation:T15 Referent:OBT:002518
+N11	OntoBiotope Annotation:T16 Referent:OBT:002518
+N12	OntoBiotope Annotation:T16 Referent:OBT:001231
+N13	OntoBiotope Annotation:T18 Referent:OBT:002817
+N14	NCBI_Taxonomy Annotation:T17 Referent:1280
+N15	OntoBiotope Annotation:T19 Referent:OBT:003220
+N16	OntoBiotope Annotation:T20 Referent:OBT:002518
+N17	OntoBiotope Annotation:T20 Referent:OBT:001231
+N18	OntoBiotope Annotation:T22 Referent:OBT:002817
+N19	NCBI_Taxonomy Annotation:T21 Referent:1280
+N20	OntoBiotope Annotation:T23 Referent:OBT:003220
+N21	OntoBiotope Annotation:T24 Referent:OBT:001231
+N22	OntoBiotope Annotation:T24 Referent:OBT:002518
+N23	OntoBiotope Annotation:T25 Referent:OBT:001228
+N24	OntoBiotope Annotation:T25 Referent:OBT:000007
+N25	OntoBiotope Annotation:T26 Referent:OBT:000754
+N26	OntoBiotope Annotation:T27 Referent:OBT:001737
+N27	OntoBiotope Annotation:T27 Referent:OBT:000007
+N28	OntoBiotope Annotation:T28 Referent:OBT:001102
+N29	OntoBiotope Annotation:T29 Referent:OBT:003220
+N30	OntoBiotope Annotation:T30 Referent:OBT:003220
+N31	OntoBiotope Annotation:T32 Referent:OBT:002817
+N32	NCBI_Taxonomy Annotation:T31 Referent:1280
+N33	OntoBiotope Annotation:T33 Referent:OBT:000031
+N34	OntoBiotope Annotation:T35 Referent:OBT:002817
+N35	NCBI_Taxonomy Annotation:T34 Referent:1280
+N36	OntoBiotope Annotation:T36 Referent:OBT:003220
+N37	OntoBiotope Annotation:T37 Referent:OBT:002518
+N38	OntoBiotope Annotation:T37 Referent:OBT:001231
+N39	OntoBiotope Annotation:T39 Referent:OBT:002817
+N40	NCBI_Taxonomy Annotation:T38 Referent:1280
+N41	OntoBiotope Annotation:T40 Referent:OBT:001231
+N42	OntoBiotope Annotation:T40 Referent:OBT:002518
+N43	OntoBiotope Annotation:T41 Referent:OBT:003220

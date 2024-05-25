@@ -1,0 +1,10 @@
+T1	Microorganism 35 43	P. celer
+T2	Microorganism 159 171	C. variabile
+T3	Microorganism 172 180	C. casei
+T4	Microorganism 265 273	P. celer
+T5	Habitat 281 287	cheese
+N1	NCBI_Taxonomy Annotation:T1 Referent:306572
+N2	NCBI_Taxonomy Annotation:T2 Referent:1727
+N3	NCBI_Taxonomy Annotation:T3 Referent:160386
+N4	NCBI_Taxonomy Annotation:T4 Referent:306572
+N5	OntoBiotope Annotation:T5 Referent:OBT:001480

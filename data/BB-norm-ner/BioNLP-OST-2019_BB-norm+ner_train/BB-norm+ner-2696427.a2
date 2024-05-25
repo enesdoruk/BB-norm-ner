@@ -1,0 +1,65 @@
+T3	Habitat 16 20	fish
+T4	Phenotype 16 29	fish pathogen
+T5	Microorganism 30 48	Vibrio salmonicida
+T6	Habitat 52 71	fish farm sediments
+T7	Habitat 52 56	fish
+T8	Habitat 52 61	fish farm
+T9	Habitat 96 100	fish
+T10	Phenotype 96 109	fish pathogen
+T11	Microorganism 110 128	Vibrio salmonicida
+T12	Habitat 132 151	fish farm sediments
+T13	Habitat 132 141	fish farm
+T14	Habitat 132 136	fish
+T15	Habitat 258 281	polyclonal rabbit serum
+T16	Habitat 269 275	rabbit
+T17	Microorganism 332 338	Vibrio
+T18	Habitat 374 407	intestinal tracts of healthy fish
+T19	Habitat 395 407	healthy fish
+T20	Habitat 429 438	sediments
+T21	Microorganism 440 454	V. salmonicida
+T22	Habitat 471 507	sediment samples from diseased farms
+T23	Habitat 493 507	diseased farms
+T24	Habitat 594 639	sediment sample from a disease-free fish farm
+T25	Habitat 617 639	disease-free fish farm
+T26	Habitat 630 634	fish
+T27	Microorganism 644 658	V. salmonicida
+T28	Habitat 680 689	sediments
+T29	Habitat 708 712	fish
+T30	Habitat 708 720	fish farming
+T31	Habitat 794 800	rabbit
+T32	Habitat 794 806	rabbit serum
+T33	Habitat 871 883	rabbit serum
+T34	Habitat 871 877	rabbit
+N1	OntoBiotope Annotation:T3 Referent:OBT:002793
+N2	OntoBiotope Annotation:T4 Referent:OBT:002669
+N3	NCBI_Taxonomy Annotation:T5 Referent:40269
+N4	OntoBiotope Annotation:T6 Referent:OBT:001430
+N5	OntoBiotope Annotation:T7 Referent:OBT:002903
+N6	OntoBiotope Annotation:T8 Referent:OBT:000630
+N7	OntoBiotope Annotation:T9 Referent:OBT:002793
+N8	OntoBiotope Annotation:T10 Referent:OBT:002669
+N9	NCBI_Taxonomy Annotation:T11 Referent:40269
+N10	OntoBiotope Annotation:T12 Referent:OBT:001430
+N11	OntoBiotope Annotation:T13 Referent:OBT:000630
+N12	OntoBiotope Annotation:T14 Referent:OBT:002903
+N13	OntoBiotope Annotation:T15 Referent:OBT:000524
+N14	OntoBiotope Annotation:T16 Referent:OBT:002572
+N15	NCBI_Taxonomy Annotation:T17 Referent:662
+N16	OntoBiotope Annotation:T18 Referent:OBT:000641
+N17	OntoBiotope Annotation:T19 Referent:OBT:002793
+N18	OntoBiotope Annotation:T20 Referent:OBT:001430
+N19	NCBI_Taxonomy Annotation:T21 Referent:40269
+N20	OntoBiotope Annotation:T22 Referent:OBT:001430
+N21	OntoBiotope Annotation:T23 Referent:OBT:000630
+N22	OntoBiotope Annotation:T24 Referent:OBT:001430
+N23	OntoBiotope Annotation:T25 Referent:OBT:000630
+N24	OntoBiotope Annotation:T26 Referent:OBT:002903
+N25	NCBI_Taxonomy Annotation:T27 Referent:40269
+N26	OntoBiotope Annotation:T28 Referent:OBT:001430
+N27	OntoBiotope Annotation:T29 Referent:OBT:002903
+N28	OntoBiotope Annotation:T30 Referent:OBT:000630
+N29	OntoBiotope Annotation:T31 Referent:OBT:002572
+N30	OntoBiotope Annotation:T32 Referent:OBT:000524
+N31	OntoBiotope Annotation:T32 Referent:OBT:002572
+N32	OntoBiotope Annotation:T33 Referent:OBT:000524
+N33	OntoBiotope Annotation:T34 Referent:OBT:002572

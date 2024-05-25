@@ -1,0 +1,12 @@
+T3	Microorganism 62 86	Streptococcus pneumoniae
+T4	Phenotype 375 397	bacterial pathogenesis
+T5	Phenotype 469 478	virulence
+T6	Microorganism 535 559	Streptococcus pneumoniae
+T7	Phenotype 563 576	Gram-positive
+T8	Phenotype 947 956	virulence
+N1	NCBI_Taxonomy Annotation:T3 Referent:1313
+N2	OntoBiotope Annotation:T4 Referent:OBT:000375
+N3	OntoBiotope Annotation:T5 Referent:OBT:000375
+N4	NCBI_Taxonomy Annotation:T6 Referent:1313
+N5	OntoBiotope Annotation:T7 Referent:OBT:000649
+N6	OntoBiotope Annotation:T8 Referent:OBT:000375

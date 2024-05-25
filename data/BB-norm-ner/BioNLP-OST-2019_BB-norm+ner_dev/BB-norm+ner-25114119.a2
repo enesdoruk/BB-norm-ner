@@ -1,0 +1,56 @@
+T3	Phenotype 139 161	obligate intracellular
+T4	Phenotype 172 180	pathogen
+T5	Microorganism 181 198	Coxiella burnetii
+T6	Microorganism 250 267	Coxiella burnetii
+T7	Microorganism 376 387	C. burnetii
+T8	Habitat 401 405	mice
+T9	Microorganism 537 548	C. burnetii
+T10	Habitat 621 630	SCID mice
+T11	Microorganism 639 650	C. burnetii
+T12	Habitat 651 658	aerosol
+T13	Habitat 742 753	aerosolized
+T14	Microorganism 754 765	C. burnetii
+T15	Microorganism 816 827	C. burnetii
+T16	Microorganism 973 984	C. burnetii
+T17	Habitat 1064 1070	murine
+T18	Microorganism 1213 1224	C. burnetii
+T19	Microorganism 1317 1328	C. burnetii
+T20	Habitat 1342 1346	mice
+T21	Microorganism 1381 1392	C. burnetii
+T22	Microorganism 1457 1468	C. burnetii
+T23	Microorganism 1516 1527	C. burnetii
+T24	Habitat 1541 1552	macrophages
+T25	Microorganism 1582 1593	C. burnetii
+T26	Microorganism 1634 1645	C. burnetii
+T27	Habitat 1661 1666	human
+T28	Habitat 1661 1678	human macrophages
+T29	Microorganism 1811 1822	C. burnetii
+T30	Microorganism 1945 1956	C. burnetii
+N1	OntoBiotope Annotation:T3 Referent:OBT:000771
+N2	OntoBiotope Annotation:T4 Referent:OBT:000375
+N3	NCBI_Taxonomy Annotation:T5 Referent:777
+N4	NCBI_Taxonomy Annotation:T6 Referent:777
+N5	NCBI_Taxonomy Annotation:T7 Referent:777
+N6	OntoBiotope Annotation:T8 Referent:OBT:003211
+N7	NCBI_Taxonomy Annotation:T9 Referent:777
+N8	OntoBiotope Annotation:T10 Referent:OBT:003211
+N9	NCBI_Taxonomy Annotation:T11 Referent:777
+N10	OntoBiotope Annotation:T12 Referent:OBT:000030
+N11	OntoBiotope Annotation:T13 Referent:OBT:000030
+N12	NCBI_Taxonomy Annotation:T14 Referent:777
+N13	NCBI_Taxonomy Annotation:T15 Referent:777
+N14	NCBI_Taxonomy Annotation:T16 Referent:777
+N15	OntoBiotope Annotation:T17 Referent:OBT:002530
+N16	NCBI_Taxonomy Annotation:T18 Referent:777
+N17	NCBI_Taxonomy Annotation:T19 Referent:777
+N18	OntoBiotope Annotation:T20 Referent:OBT:003211
+N19	NCBI_Taxonomy Annotation:T21 Referent:777
+N20	NCBI_Taxonomy Annotation:T22 Referent:777
+N21	NCBI_Taxonomy Annotation:T23 Referent:777
+N22	OntoBiotope Annotation:T24 Referent:OBT:002995
+N23	NCBI_Taxonomy Annotation:T25 Referent:777
+N24	NCBI_Taxonomy Annotation:T26 Referent:777
+N25	OntoBiotope Annotation:T27 Referent:OBT:002488
+N26	OntoBiotope Annotation:T28 Referent:OBT:002995
+N27	NCBI_Taxonomy Annotation:T29 Referent:777
+N28	NCBI_Taxonomy Annotation:T30 Referent:777

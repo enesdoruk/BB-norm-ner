@@ -1,0 +1,34 @@
+T6	Microorganism 14 33	Helicobacter pylori
+T7	Microorganism 163 182	Helicobacter pylori
+T8	Habitat 196 214	dyspeptic patients
+T9	Habitat 327 358	patients with chronic dyspepsia
+T10	Habitat 371 377	clinic
+T11	Habitat 393 409	Gastric biopsies
+T12	Habitat 393 400	Gastric
+T13	Microorganism 441 450	H. pylori
+T14	Habitat 504 537	Patients with H. pylori infection
+T15	Microorganism 518 527	H. pylori
+T16	Microorganism 626 635	H. pylori
+T17	Microorganism 722 731	H. pylori
+T18	Microorganism 817 826	H. pylori
+T19	Microorganism 1092 1101	H. pylori
+T20	Microorganism 1379 1388	H. pylori
+T21	Habitat 1402 1420	dyspeptic patients
+T22	Phenotype 1533 1599	widespread bacterial resistance due to unrestricted antibiotic use
+N1	NCBI_Taxonomy Annotation:T6 Referent:210
+N2	NCBI_Taxonomy Annotation:T7 Referent:210
+N3	OntoBiotope Annotation:T8 Referent:OBT:003220
+N4	OntoBiotope Annotation:T9 Referent:OBT:003220
+N5	OntoBiotope Annotation:T10 Referent:OBT:002694
+N6	OntoBiotope Annotation:T11 Referent:OBT:000110
+N7	OntoBiotope Annotation:T12 Referent:OBT:001792
+N8	NCBI_Taxonomy Annotation:T13 Referent:210
+N9	OntoBiotope Annotation:T14 Referent:OBT:003269
+N10	NCBI_Taxonomy Annotation:T15 Referent:210
+N11	NCBI_Taxonomy Annotation:T16 Referent:210
+N12	NCBI_Taxonomy Annotation:T17 Referent:210
+N13	NCBI_Taxonomy Annotation:T18 Referent:210
+N14	NCBI_Taxonomy Annotation:T19 Referent:210
+N15	NCBI_Taxonomy Annotation:T20 Referent:210
+N16	OntoBiotope Annotation:T21 Referent:OBT:003220
+N17	OntoBiotope Annotation:T22 Referent:OBT:002674

@@ -1,0 +1,34 @@
+T3	Phenotype 32 56	beta-lactamase-producing
+T4	Microorganism 57 76	Salmonella enterica
+T5	Habitat 140 147	animals
+T6	Habitat 152 158	humans
+T7	Microorganism 175 194	Salmonella enterica
+T8	Habitat 220 237	Spanish hospitals
+T9	Microorganism 271 278	Virchow
+T10	Microorganism 286 297	Livingstone
+T11	Phenotype 328 376	extended-spectrum beta-lactamase (ESBL) producer
+T12	Microorganism 422 445	S. enterica Livingstone
+T13	Microorganism 553 572	S. enterica Virchow
+T14	Microorganism 666 673	Virchow
+T15	Habitat 909 916	animals
+T16	Phenotype 918 933	ESBL production
+T17	Phenotype 962 972	resistance
+T18	Microorganism 976 987	S. enterica
+T19	Habitat 1007 1016	hospitals
+N1	OntoBiotope Annotation:T3 Referent:OBT:000019
+N2	NCBI_Taxonomy Annotation:T4 Referent:28901
+N3	OntoBiotope Annotation:T5 Referent:OBT:000193
+N4	OntoBiotope Annotation:T6 Referent:OBT:002488
+N5	NCBI_Taxonomy Annotation:T7 Referent:28901
+N6	OntoBiotope Annotation:T8 Referent:OBT:002714
+N7	NCBI_Taxonomy Annotation:T9 Referent:48409
+N8	NCBI_Taxonomy Annotation:T10 Referent:260680
+N9	OntoBiotope Annotation:T11 Referent:OBT:000019
+N10	NCBI_Taxonomy Annotation:T12 Referent:260680
+N11	NCBI_Taxonomy Annotation:T13 Referent:48409
+N12	NCBI_Taxonomy Annotation:T14 Referent:48409
+N13	OntoBiotope Annotation:T15 Referent:OBT:000193
+N14	OntoBiotope Annotation:T16 Referent:OBT:000019
+N15	OntoBiotope Annotation:T17 Referent:OBT:000598
+N16	NCBI_Taxonomy Annotation:T18 Referent:28901
+N17	OntoBiotope Annotation:T19 Referent:OBT:002714

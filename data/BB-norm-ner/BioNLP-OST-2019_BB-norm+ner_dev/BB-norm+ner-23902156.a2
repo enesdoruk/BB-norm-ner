@@ -1,0 +1,18 @@
+T3	Microorganism 68 89	Penicillium crustosum
+T4	Microorganism 68 89	Penicillium crustosum
+T5	Microorganism 129 155	Penicillium brevicompactum
+T6	Microorganism 258 279	Penicillium crustosum
+T7	Microorganism 340 352	P. crustosum
+T8	Microorganism 479 495	Escherichia coli
+T9	Microorganism 1101 1112	Penicillium
+T10	Habitat 1101 1134	Penicillium-sensitive atopic sera
+T11	Habitat 1101 1134	Penicillium-sensitive atopic sera
+N1	NCBI_Taxonomy Annotation:T3 Referent:36656
+N2	NCBI_Taxonomy Annotation:T4 Referent:36656
+N3	NCBI_Taxonomy Annotation:T5 Referent:5074
+N4	NCBI_Taxonomy Annotation:T6 Referent:36656
+N5	NCBI_Taxonomy Annotation:T7 Referent:36656
+N6	NCBI_Taxonomy Annotation:T8 Referent:562
+N7	OntoBiotope Annotation:T10 Referent:OBT:000007
+N8	OntoBiotope Annotation:T11 Referent:OBT:000007
+N9	NCBI_Taxonomy Annotation:T9 Referent:5073

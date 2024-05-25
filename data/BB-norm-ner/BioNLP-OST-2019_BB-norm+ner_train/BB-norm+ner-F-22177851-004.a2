@@ -1,0 +1,22 @@
+T1	Phenotype 0 13	Gram-negative
+T2	Habitat 197 203	cheese
+T3	Microorganism 357 374	Pseudomonas  spp.
+T4	Habitat 378 383	dairy
+T5	Habitat 555 562	cheeses
+T6	Microorganism 597 615	Enterobacteriaceae
+T7	Microorganism 631 643	Hafnia alvei
+T8	Habitat 788 794	cheese
+T9	Microorganism 831 848	Psychrobacter sp.
+T10	Habitat 864 870	cheese
+T11	Habitat 927 939	model cheese
+N1	OntoBiotope Annotation:T1 Referent:OBT:000648
+N2	OntoBiotope Annotation:T2 Referent:OBT:001480
+N3	NCBI_Taxonomy Annotation:T3 Referent:306
+N4	OntoBiotope Annotation:T4 Referent:OBT:001208
+N5	OntoBiotope Annotation:T5 Referent:OBT:001480
+N6	NCBI_Taxonomy Annotation:T6 Referent:543
+N7	NCBI_Taxonomy Annotation:T7 Referent:569
+N8	OntoBiotope Annotation:T8 Referent:OBT:001480
+N9	NCBI_Taxonomy Annotation:T9 Referent:56811
+N10	OntoBiotope Annotation:T10 Referent:OBT:001480
+N11	OntoBiotope Annotation:T11 Referent:OBT:001480

@@ -1,0 +1,116 @@
+T3	Phenotype 0 14	Quorum-sensing
+T4	Phenotype 29 37	adhesion
+T5	Microorganism 41 64	Serratia marcescens MG1
+T6	Microorganism 87 106	Serratia marcescens
+T7	Phenotype 113 135	opportunistic pathogen
+T8	Habitat 157 163	ocular
+T9	Microorganism 199 216	S. marcescens MG1
+T10	Habitat 233 240	biofilm
+T11	Phenotype 233 251	biofilm maturation
+T12	Phenotype 284 336	N-acyl homoserine lactone (AHL)-based quorum sensing
+T13	Phenotype 338 340	QS
+T14	Phenotype 372 380	adhesion
+T15	Habitat 395 402	biofilm
+T16	Phenotype 395 412	biofilm formation
+T17	Phenotype 484 486	QS
+T18	Phenotype 503 511	adhesion
+T19	Habitat 520 527;539 547	abiotic surfaces
+T20	Habitat 532 547	biotic surfaces
+T21	Phenotype 590 600	attachment
+T22	Habitat 604 637	hydrophilic tissue culture plates
+T23	Habitat 604 630	hydrophilic tissue culture
+T24	Habitat 642 678	human corneal epithelial (HCE) cells
+T25	Habitat 642 647	human
+T26	Habitat 648 655	corneal
+T27	Habitat 656 666	epithelial
+T28	Phenotype 715 723	adhesion
+T29	Habitat 731 746	abiotic surface
+T30	Phenotype 766 774	adhesion
+T31	Habitat 782 790	HCE cell
+T32	Habitat 782 805	HCE cell biotic surface
+T33	Phenotype 879 881	QS
+T34	Phenotype 891 901	attachment
+T35	Habitat 909 932	biotic HCE cell surface
+T36	Habitat 916 924	HCE cell
+T37	Phenotype 955 963	adhesion
+T38	Habitat 971 986	abiotic surface
+T39	Phenotype 1032 1034	QS
+T40	Phenotype 1067 1077	attachment
+T41	Habitat 1085 1100	abiotic surface
+T42	Phenotype 1139 1147	adhesion
+T43	Habitat 1155 1170	abiotic surface
+T44	Phenotype 1272 1280	adhesion
+T45	Habitat 1288 1302	biotic surface
+T46	Phenotype 1312 1314	QS
+T47	Phenotype 1436 1438	QS
+T48	Phenotype 1463 1473	attachment
+T49	Habitat 1477 1486	HCE cells
+T50	Phenotype 1507 1509	QS
+T51	Microorganism 1513 1526	S. marcescens
+T52	Microorganism 1659 1676	S. marcescens MG1
+T53	Phenotype 1731 1741	attachment
+T54	Habitat 1745 1751;1764 1772	biotic surfaces
+T55	Habitat 1756 1772	abiotic surfaces
+T56	Phenotype 1782 1784	QS
+T57	Phenotype 1817 1825	adhesion
+T58	Habitat 1832 1847	abiotic surface
+T59	Phenotype 1859 1867	adhesion
+T60	Habitat 1873 1887	biotic surface
+N1	OntoBiotope Annotation:T3 Referent:OBT:000143
+N2	OntoBiotope Annotation:T4 Referent:OBT:000029
+N3	NCBI_Taxonomy Annotation:T5 Referent:615
+N4	NCBI_Taxonomy Annotation:T6 Referent:615
+N5	OntoBiotope Annotation:T7 Referent:OBT:000776
+N6	OntoBiotope Annotation:T8 Referent:OBT:000627
+N7	NCBI_Taxonomy Annotation:T9 Referent:615
+N8	OntoBiotope Annotation:T10 Referent:OBT:000054
+N9	OntoBiotope Annotation:T11 Referent:OBT:001444
+N10	OntoBiotope Annotation:T12 Referent:OBT:000143
+N11	OntoBiotope Annotation:T13 Referent:OBT:000143
+N12	OntoBiotope Annotation:T14 Referent:OBT:000029
+N13	OntoBiotope Annotation:T15 Referent:OBT:000054
+N14	OntoBiotope Annotation:T16 Referent:OBT:001444
+N15	OntoBiotope Annotation:T17 Referent:OBT:000143
+N16	OntoBiotope Annotation:T18 Referent:OBT:000029
+N17	OntoBiotope Annotation:T19 Referent:OBT:000007
+N18	OntoBiotope Annotation:T20 Referent:OBT:000007
+N19	OntoBiotope Annotation:T21 Referent:OBT:000029
+N20	OntoBiotope Annotation:T22 Referent:OBT:000103
+N21	OntoBiotope Annotation:T23 Referent:OBT:000062
+N22	OntoBiotope Annotation:T24 Referent:OBT:000061
+N23	OntoBiotope Annotation:T25 Referent:OBT:002488
+N24	OntoBiotope Annotation:T26 Referent:OBT:000573
+N25	OntoBiotope Annotation:T27 Referent:OBT:001091
+N26	OntoBiotope Annotation:T28 Referent:OBT:000029
+N27	OntoBiotope Annotation:T29 Referent:OBT:000007
+N28	OntoBiotope Annotation:T30 Referent:OBT:000029
+N29	OntoBiotope Annotation:T31 Referent:OBT:000061
+N30	OntoBiotope Annotation:T32 Referent:OBT:000062
+N31	OntoBiotope Annotation:T33 Referent:OBT:000143
+N32	OntoBiotope Annotation:T34 Referent:OBT:000029
+N33	OntoBiotope Annotation:T35 Referent:OBT:000062
+N34	OntoBiotope Annotation:T36 Referent:OBT:000061
+N35	OntoBiotope Annotation:T37 Referent:OBT:000029
+N36	OntoBiotope Annotation:T38 Referent:OBT:000007
+N37	OntoBiotope Annotation:T39 Referent:OBT:000143
+N38	OntoBiotope Annotation:T40 Referent:OBT:000029
+N39	OntoBiotope Annotation:T41 Referent:OBT:000007
+N40	OntoBiotope Annotation:T42 Referent:OBT:000029
+N41	OntoBiotope Annotation:T43 Referent:OBT:000007
+N42	OntoBiotope Annotation:T44 Referent:OBT:000029
+N43	OntoBiotope Annotation:T45 Referent:OBT:000062
+N44	OntoBiotope Annotation:T46 Referent:OBT:000143
+N45	OntoBiotope Annotation:T47 Referent:OBT:000143
+N46	OntoBiotope Annotation:T48 Referent:OBT:000029
+N47	OntoBiotope Annotation:T49 Referent:OBT:000061
+N48	OntoBiotope Annotation:T50 Referent:OBT:000143
+N49	NCBI_Taxonomy Annotation:T51 Referent:615
+N50	NCBI_Taxonomy Annotation:T52 Referent:615
+N51	OntoBiotope Annotation:T53 Referent:OBT:000029
+N52	OntoBiotope Annotation:T54 Referent:OBT:000062
+N53	OntoBiotope Annotation:T55 Referent:OBT:000007
+N54	OntoBiotope Annotation:T56 Referent:OBT:000143
+N55	OntoBiotope Annotation:T57 Referent:OBT:000029
+N56	OntoBiotope Annotation:T58 Referent:OBT:000007
+N57	OntoBiotope Annotation:T59 Referent:OBT:000029
+N58	OntoBiotope Annotation:T60 Referent:OBT:000062

@@ -1,0 +1,34 @@
+T6	Microorganism 20 42	Salmonella Paratyphi A
+T7	Habitat 59 76	israeli travelers
+T8	Microorganism 96 118	Salmonella Paratyphi A
+T9	Habitat 149 158	travelers
+T10	Microorganism 235 249	S. Paratyphi A
+T11	Habitat 273 290	Israeli travelers
+T12	Habitat 402 410	patients
+T13	Phenotype 467 495	antimicrobial susceptibility
+T14	Habitat 584 601	Israeli travelers
+T15	Microorganism 643 657	S. Paratyphi A
+T16	Phenotype 738 762	nalidixic acid resistant
+T17	Habitat 771 781	food venue
+T18	Habitat 771 775	food
+T19	Habitat 903 911	patients
+T20	Habitat 973 1035	patients treated with ceftriaxone and azithromycin combination
+T21	Habitat 1072 1114	cases treated with ceftriaxone monotherapy
+T22	Habitat 1244 1261	Israeli travelers
+N1	NCBI_Taxonomy Annotation:T6 Referent:54388
+N2	OntoBiotope Annotation:T7 Referent:OBT:003308
+N3	NCBI_Taxonomy Annotation:T8 Referent:54388
+N4	OntoBiotope Annotation:T9 Referent:OBT:003308
+N5	NCBI_Taxonomy Annotation:T10 Referent:54388
+N6	OntoBiotope Annotation:T11 Referent:OBT:003308
+N7	OntoBiotope Annotation:T12 Referent:OBT:003269
+N8	OntoBiotope Annotation:T13 Referent:OBT:002338
+N9	OntoBiotope Annotation:T14 Referent:OBT:003308
+N10	NCBI_Taxonomy Annotation:T15 Referent:54388
+N11	OntoBiotope Annotation:T16 Referent:OBT:002823
+N12	OntoBiotope Annotation:T17 Referent:OBT:000607
+N13	OntoBiotope Annotation:T18 Referent:OBT:000094
+N14	OntoBiotope Annotation:T19 Referent:OBT:003269
+N15	OntoBiotope Annotation:T20 Referent:OBT:003269
+N16	OntoBiotope Annotation:T21 Referent:OBT:003269
+N17	OntoBiotope Annotation:T22 Referent:OBT:003308

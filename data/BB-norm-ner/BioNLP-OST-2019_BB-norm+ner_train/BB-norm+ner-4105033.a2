@@ -1,0 +1,34 @@
+T3	Microorganism 58 80	Pseudomonas aeruginosa
+T4	Habitat 82 94	Spheroplasts
+T5	Microorganism 138 160	Pseudomonas aeruginosa
+T6	Habitat 175 186	20% sucrose
+T7	Habitat 190 203	0.2 m MgCl(2)
+T8	Habitat 245 257	spheroplasts
+T9	Habitat 277 289	0.2 m Mg(2+)
+T10	Habitat 372 383	20% sucrose
+T11	Habitat 460 467	sucrose
+T12	Habitat 533 562	sucrose-lysozyme preparations
+T13	Habitat 649 661	spheroplasts
+T14	Habitat 726 737	20% sucrose
+T15	Habitat 950 957	sucrose
+T16	Habitat 1040 1056	sucrose-lysozyme
+T17	Habitat 1040 1078	sucrose-lysozyme prepared spheroplasts
+T18	Habitat 1145 1165	sucrose-washed cells
+T19	Microorganism 1293 1306	P. aeruginosa
+N1	NCBI_Taxonomy Annotation:T3 Referent:287
+N2	OntoBiotope Annotation:T4 Referent:OBT:000061
+N3	NCBI_Taxonomy Annotation:T5 Referent:287
+N4	OntoBiotope Annotation:T6 Referent:OBT:000106
+N5	OntoBiotope Annotation:T7 Referent:OBT:000106
+N6	OntoBiotope Annotation:T8 Referent:OBT:000061
+N7	OntoBiotope Annotation:T9 Referent:OBT:000106
+N8	OntoBiotope Annotation:T10 Referent:OBT:000106
+N9	OntoBiotope Annotation:T11 Referent:OBT:000106
+N10	OntoBiotope Annotation:T12 Referent:OBT:000106
+N11	OntoBiotope Annotation:T13 Referent:OBT:000061
+N12	OntoBiotope Annotation:T14 Referent:OBT:000106
+N13	OntoBiotope Annotation:T15 Referent:OBT:000106
+N14	OntoBiotope Annotation:T16 Referent:OBT:000106
+N15	OntoBiotope Annotation:T17 Referent:OBT:000061
+N16	OntoBiotope Annotation:T18 Referent:OBT:000061
+N17	NCBI_Taxonomy Annotation:T19 Referent:287

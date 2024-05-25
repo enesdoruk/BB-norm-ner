@@ -1,0 +1,24 @@
+T1	Microorganism 21 49	Psychrobacter immobilis  PG1
+T2	Habitat 72 83	dairy plant
+T3	Habitat 102 123	smear-ripened  cheese
+T4	Microorganism 205 215	strain PG1
+T5	Habitat 289 295	cheese
+T6	Microorganism 359 387	Geotrichum candidum CLIB 918
+T7	Microorganism 392 420	Debaryomyces hansenii CBS767
+T8	Habitat 435 455	smear-ripened cheese
+T9	Habitat 457 463	cheese
+T10	Microorganism 468 505	Pseudoalteromonas haloplanktis TAC125
+T11	Microorganism 507 526	Halomonas sp. 1 M45
+T12	Microorganism 531 554	Psychrobacter celer  91
+N1	NCBI_Taxonomy Annotation:T1 Referent:1256511
+N2	OntoBiotope Annotation:T2 Referent:OBT:001988
+N3	OntoBiotope Annotation:T3 Referent:OBT:003494
+N4	NCBI_Taxonomy Annotation:T4 Referent:1256511
+N5	OntoBiotope Annotation:T5 Referent:OBT:003494
+N6	NCBI_Taxonomy Annotation:T6 Referent:1173061
+N7	NCBI_Taxonomy Annotation:T7 Referent:284592
+N8	OntoBiotope Annotation:T8 Referent:OBT:003494
+N9	OntoBiotope Annotation:T9 Referent:OBT:003494
+N10	NCBI_Taxonomy Annotation:T10 Referent:326442
+N11	NCBI_Taxonomy Annotation:T11 Referent:1255591
+N12	NCBI_Taxonomy Annotation:T12 Referent:1255614

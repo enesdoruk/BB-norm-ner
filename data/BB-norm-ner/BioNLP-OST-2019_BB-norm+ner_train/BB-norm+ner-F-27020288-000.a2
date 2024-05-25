@@ -1,0 +1,16 @@
+T1	Phenotype 4 36	production of exopolysaccharides
+T2	Phenotype 40 43	LAB
+T3	Microorganism 127 153	Streptococcus thermophilus
+T4	Microorganism 157 180	Lactobacillus plantarum
+T5	Microorganism 309 327	Lactococcus lactis
+T6	Microorganism 332 353	Pediococcus damnsosus
+T7	Microorganism 493 511	L. plantarum WCFS1
+T8	Phenotype 539 572	surface polysaccharide production
+N1	OntoBiotope Annotation:T1 Referent:OBT:000019
+N2	OntoBiotope Annotation:T2 Referent:OBT:000019
+N3	NCBI_Taxonomy Annotation:T3 Referent:1308
+N4	NCBI_Taxonomy Annotation:T4 Referent:1590
+N5	NCBI_Taxonomy Annotation:T5 Referent:1358
+N6	NCBI_Taxonomy Annotation:T6 Referent:51663
+N7	NCBI_Taxonomy Annotation:T7 Referent:220668
+N8	OntoBiotope Annotation:T8 Referent:OBT:000019

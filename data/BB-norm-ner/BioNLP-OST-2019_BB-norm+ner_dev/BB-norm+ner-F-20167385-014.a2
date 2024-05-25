@@ -1,0 +1,6 @@
+T1	Microorganism 44 57	Psychrobacter
+T2	Habitat 69 106	surface of Formaggio di  Fossa cheese
+T3	Habitat 80 106	Formaggio di  Fossa cheese
+N1	NCBI_Taxonomy Annotation:T1 Referent:497
+N2	OntoBiotope Annotation:T2 Referent:OBT:001341
+N3	OntoBiotope Annotation:T3 Referent:OBT:003473

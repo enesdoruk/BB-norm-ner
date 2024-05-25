@@ -1,0 +1,34 @@
+T5	Phenotype 105 130	resistance to antibiotics
+T6	Phenotype 183 211	antimicrobial susceptibility
+T7	Microorganism 215 236	Neisseria gonorrhoeae
+T8	Habitat 408 420	laboratories
+T9	Microorganism 573 587	N. gonorrhoeae
+T10	Phenotype 654 682	antimicrobial susceptibility
+T11	Phenotype 948 968	penicillin-resistant
+T12	Microorganism 969 983	N. gonorrhoeae
+T13	Phenotype 1074 1084	resistance
+T14	Phenotype 1171 1191	penicillin-resistant
+T15	Phenotype 1254 1264	resistance
+T16	Phenotype 1314 1324	resistance
+T17	Phenotype 1351 1374	ciprofloxacin-resistant
+T18	Microorganism 1394 1408	N. gonorrhoeae
+T19	Phenotype 1414 1441;1460 1472	decreased susceptibility to azithromycin
+T20	Phenotype 1414 1455	decreased susceptibility to ciprofloxacin
+T21	Phenotype 1484 1507	spectinomycin-resistant
+N1	OntoBiotope Annotation:T5 Referent:OBT:002674
+N2	OntoBiotope Annotation:T6 Referent:OBT:002338
+N3	NCBI_Taxonomy Annotation:T7 Referent:485
+N4	OntoBiotope Annotation:T8 Referent:OBT:001169
+N5	NCBI_Taxonomy Annotation:T9 Referent:485
+N6	OntoBiotope Annotation:T10 Referent:OBT:002338
+N7	OntoBiotope Annotation:T11 Referent:OBT:002829
+N8	NCBI_Taxonomy Annotation:T12 Referent:485
+N9	OntoBiotope Annotation:T13 Referent:OBT:002829
+N10	OntoBiotope Annotation:T14 Referent:OBT:002829
+N11	OntoBiotope Annotation:T15 Referent:OBT:002869
+N12	OntoBiotope Annotation:T16 Referent:OBT:002869
+N13	OntoBiotope Annotation:T17 Referent:OBT:002773
+N14	NCBI_Taxonomy Annotation:T18 Referent:485
+N15	OntoBiotope Annotation:T19 Referent:OBT:002864
+N16	OntoBiotope Annotation:T20 Referent:OBT:002774
+N17	OntoBiotope Annotation:T21 Referent:OBT:002857

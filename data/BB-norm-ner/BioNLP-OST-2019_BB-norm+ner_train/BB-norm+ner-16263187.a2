@@ -1,0 +1,115 @@
+T3	Microorganism 11 36	Lactobacillus gasseri K 7
+T4	Microorganism 48 64	Escherichia coli
+T5	Phenotype 65 73	adhesion
+T6	Habitat 86 98	Caco-2 cells
+T7	Habitat 114 134	pigs' jejunal tissue
+T8	Habitat 114 118	pigs
+T9	Habitat 120 127	jejunal
+T10	Microorganism 151 182	Lactobacillus (Lb.) gasseri K 7
+T11	Phenotype 194 202	adhesion
+T12	Microorganism 206 229	Escherichia coli O8:K88
+T13	Habitat 233 250	intestinal mucosa
+T14	Habitat 233 243	intestinal
+T15	Habitat 266 287	cultured Caco-2 cells
+T16	Habitat 303 332	pigs' small intestinal tissue
+T17	Habitat 303 307	pigs
+T18	Habitat 309 325	small intestinal
+T19	Microorganism 334 346	Lactobacilli
+T20	Microorganism 378 385	E. coli
+T21	Microorganism 394 401	E. coli
+T22	Microorganism 412 419	E. coli
+T23	Microorganism 493 505	lactobacilli
+T24	Habitat 509 542	fully differentiated Caco-2 cells
+T25	Microorganism 602 609	E. coli
+T26	Microorganism 673 680	E. coli
+T27	Habitat 692 698	Caco-2
+T28	Microorganism 827 834	E. coli
+T29	Phenotype 835 843	adhesion
+T30	Microorganism 859 874	Lb. gasseri K 7
+T31	Phenotype 914 921	binding
+T32	Microorganism 925 932	E. coli
+T33	Microorganism 992 1004	lactobacilli
+T34	Microorganism 1050 1057	E. coli
+T35	Microorganism 1065 1072	E. coli
+T36	Microorganism 1073 1085	lactobacilli
+T37	Phenotype 1153 1161	adhesion
+T38	Habitat 1165 1198	tissue derived from pigs' jejunum
+T39	Habitat 1185 1198	pigs' jejunum
+T40	Habitat 1185 1189	pigs
+T41	Microorganism 1228 1235	E. coli
+T42	Microorganism 1305 1320	Lb. gasseri K 7
+T43	Phenotype 1410 1418	adhesion
+T44	Microorganism 1422 1429	E. coli
+T45	Microorganism 1434 1449	Lb. gasseri K 7
+T46	Habitat 1459 1466	jejunal
+T47	Habitat 1459 1473	jejunal mucosa
+T48	Microorganism 1684 1691	E. coli
+T49	Microorganism 1695 1707	lactobacilli
+T50	Habitat 1724 1731	jejunal
+T51	Habitat 1724 1738	jejunal tissue
+T52	Microorganism 1755 1770	Lb. gasseri K 7
+T53	Microorganism 1809 1816	E. coli
+T54	Phenotype 1817 1825	adhesion
+T55	Habitat 1829 1847	Caco-2 enterocytes
+T56	Habitat 1911 1929	pig jejunal tissue
+T57	Habitat 1911 1914	pig
+T58	Habitat 1915 1922	jejunal
+N1	NCBI_Taxonomy Annotation:T3 Referent:1334627
+N2	NCBI_Taxonomy Annotation:T4 Referent:562
+N3	OntoBiotope Annotation:T5 Referent:OBT:000029
+N4	OntoBiotope Annotation:T6 Referent:OBT:000062
+N5	OntoBiotope Annotation:T6 Referent:OBT:000268
+N6	OntoBiotope Annotation:T7 Referent:OBT:002993
+N7	OntoBiotope Annotation:T8 Referent:OBT:003337
+N8	OntoBiotope Annotation:T9 Referent:OBT:001605
+N9	NCBI_Taxonomy Annotation:T10 Referent:1334627
+N10	OntoBiotope Annotation:T11 Referent:OBT:000029
+N11	NCBI_Taxonomy Annotation:T12 Referent:1010796
+N12	OntoBiotope Annotation:T13 Referent:OBT:002993
+N13	OntoBiotope Annotation:T14 Referent:OBT:002810
+N14	OntoBiotope Annotation:T15 Referent:OBT:000062
+N15	OntoBiotope Annotation:T15 Referent:OBT:000268
+N16	OntoBiotope Annotation:T16 Referent:OBT:002993
+N17	OntoBiotope Annotation:T17 Referent:OBT:003337
+N18	OntoBiotope Annotation:T18 Referent:OBT:003303
+N19	NCBI_Taxonomy Annotation:T19 Referent:1334627
+N20	NCBI_Taxonomy Annotation:T20 Referent:1010796
+N21	NCBI_Taxonomy Annotation:T21 Referent:1010796
+N22	NCBI_Taxonomy Annotation:T22 Referent:1010796
+N23	NCBI_Taxonomy Annotation:T23 Referent:1334627
+N24	OntoBiotope Annotation:T24 Referent:OBT:000061
+N25	NCBI_Taxonomy Annotation:T25 Referent:1010796
+N26	NCBI_Taxonomy Annotation:T26 Referent:1010796
+N27	OntoBiotope Annotation:T27 Referent:OBT:000061
+N28	NCBI_Taxonomy Annotation:T28 Referent:1010796
+N29	OntoBiotope Annotation:T29 Referent:OBT:000029
+N30	NCBI_Taxonomy Annotation:T30 Referent:1334627
+N31	OntoBiotope Annotation:T31 Referent:OBT:000029
+N32	NCBI_Taxonomy Annotation:T32 Referent:1010796
+N33	NCBI_Taxonomy Annotation:T33 Referent:1334627
+N34	NCBI_Taxonomy Annotation:T34 Referent:1010796
+N35	NCBI_Taxonomy Annotation:T35 Referent:1010796
+N36	NCBI_Taxonomy Annotation:T36 Referent:1334627
+N37	OntoBiotope Annotation:T37 Referent:OBT:000029
+N38	OntoBiotope Annotation:T38 Referent:OBT:002993
+N39	OntoBiotope Annotation:T39 Referent:OBT:001605
+N40	OntoBiotope Annotation:T40 Referent:OBT:003337
+N41	NCBI_Taxonomy Annotation:T41 Referent:1010796
+N42	NCBI_Taxonomy Annotation:T42 Referent:1334627
+N43	OntoBiotope Annotation:T43 Referent:OBT:000029
+N44	NCBI_Taxonomy Annotation:T44 Referent:1010796
+N45	NCBI_Taxonomy Annotation:T45 Referent:1334627
+N46	OntoBiotope Annotation:T46 Referent:OBT:001605
+N47	OntoBiotope Annotation:T47 Referent:OBT:002993
+N48	NCBI_Taxonomy Annotation:T48 Referent:1010796
+N49	NCBI_Taxonomy Annotation:T49 Referent:1334627
+N50	OntoBiotope Annotation:T50 Referent:OBT:001605
+N51	OntoBiotope Annotation:T51 Referent:OBT:002993
+N52	NCBI_Taxonomy Annotation:T52 Referent:1334627
+N53	NCBI_Taxonomy Annotation:T53 Referent:1010796
+N54	OntoBiotope Annotation:T54 Referent:OBT:000029
+N55	OntoBiotope Annotation:T55 Referent:OBT:000268
+N56	OntoBiotope Annotation:T56 Referent:OBT:000196
+N57	OntoBiotope Annotation:T56 Referent:OBT:002993
+N58	OntoBiotope Annotation:T57 Referent:OBT:003337
+N59	OntoBiotope Annotation:T58 Referent:OBT:001605

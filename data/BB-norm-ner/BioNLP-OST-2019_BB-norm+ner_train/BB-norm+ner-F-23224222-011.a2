@@ -1,0 +1,36 @@
+T1	Microorganism 32 53	Debaryomyces hansenii
+T2	Microorganism 58 73	Geotrichum spp.
+T3	Habitat 110 133	surface-ripened cheeses
+T4	Microorganism 135 146	D. hansenii
+T5	Habitat 199 219;226 227	cheeses from dairies D
+T6	Habitat 199 221	cheeses from dairies C
+T7	Habitat 212 219	dairies
+T8	Microorganism 237 252	Geotrichum spp.
+T9	Habitat 282 301	cheese from dairy B
+T10	Habitat 294 299	dairy
+T11	Habitat 310 329	cheese from dairy A
+T12	Habitat 322 327	dairy
+T13	Microorganism 331 350	Yarrowia lipolytica
+T14	Microorganism 385 398	Y. lipolytica
+T15	Habitat 443 449	cheese
+T16	Habitat 443 458	cheese surfaces
+T17	Microorganism 546 557	D. hansenii
+T18	Microorganism 562 577	Geotrichum spp.
+N1	NCBI_Taxonomy Annotation:T1 Referent:4959
+N2	NCBI_Taxonomy Annotation:T2 Referent:43987
+N3	OntoBiotope Annotation:T3 Referent:OBT:003428
+N4	NCBI_Taxonomy Annotation:T4 Referent:4959
+N5	OntoBiotope Annotation:T5 Referent:OBT:003428
+N6	OntoBiotope Annotation:T6 Referent:OBT:003428
+N7	OntoBiotope Annotation:T7 Referent:OBT:001988
+N8	NCBI_Taxonomy Annotation:T8 Referent:43987
+N9	OntoBiotope Annotation:T9 Referent:OBT:003428
+N10	OntoBiotope Annotation:T10 Referent:OBT:001988
+N11	OntoBiotope Annotation:T11 Referent:OBT:003428
+N12	OntoBiotope Annotation:T12 Referent:OBT:001988
+N13	NCBI_Taxonomy Annotation:T13 Referent:4952
+N14	NCBI_Taxonomy Annotation:T14 Referent:4952
+N15	OntoBiotope Annotation:T15 Referent:OBT:003428
+N16	OntoBiotope Annotation:T16 Referent:OBT:001341
+N17	NCBI_Taxonomy Annotation:T17 Referent:4959
+N18	NCBI_Taxonomy Annotation:T18 Referent:43987
